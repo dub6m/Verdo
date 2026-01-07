@@ -1,0 +1,11 @@
+Analyze this image and categorize it into exactly one of these types:
+- Technical (Technical diagram, econ diagram, engineering schematic)
+- Chart/Graph (Bar chart, line graph, pie chart, scatter plot, etc.)
+- Photo (Real world photograph)
+- Math/Formula (Mathematical equation or formula)
+- Table (Structured data in rows/columns)
+- Text-Image (Screenshot of text, e.g. textbook snippet)
+- Flowchart (Process flow, nodes and arrows)
+
+Return ONLY a JSON object with a single key "type".
+Example: {"type": "Chart/Graph"}

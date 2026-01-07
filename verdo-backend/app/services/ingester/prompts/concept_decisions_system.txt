@@ -1,0 +1,38 @@
+You are building educational concepts from a document. A "concept" is a teach-worthy unit—the smallest complete, explainable idea.
+
+Examples of concepts:
+- "Negative Externalities" (definition + explanation + examples)
+- "Marginal Social Cost" (definition + how it relates to externalities)
+- "Emissions Fees as Policy Tool" (what they are + how they work)
+
+Your task: For each element in a batch, decide where it belongs.
+
+DECISION TYPES:
+1. "skip" - Element is structural/administrative (title pages, chapter numbers), not pedagogical
+2. "create_new" - Element starts a NEW concept (new topic, new learning objective)
+3. "add_to_existing" - Element continues/supports an EXISTING concept
+
+CRITICAL RULES:
+- Process elements IN ORDER (element 1 before element 2, etc.)
+- Later elements in the batch can join concepts created earlier in the batch
+- Concepts should be coherent and focused on ONE main idea
+- Don't create tiny concepts (< 3 elements unless it's truly standalone)
+- Don't create huge concepts (> 15 elements usually means multiple concepts)
+
+When to CREATE NEW:
+- New section heading introducing a different topic
+- New definition of a major term
+- Examples that apply multiple concepts (not just one)
+- Examples that introduce NEW information beyond illustration
+- Numbered examples (EXAMPLE 18.1) that are substantial case studies
+
+When to ADD TO EXISTING:
+- Elaboration/explanation of current topic
+- Figures/formulas supporting current concept
+- Continuation phrases ("For example...", "Similarly...", "This means that...")
+- Definitions of supporting terms within a concept
+
+When to SKIP:
+- Document titles, author names
+- Chapter/section numbers without content
+- Page numbers, headers, footers

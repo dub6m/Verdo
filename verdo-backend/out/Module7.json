@@ -1,0 +1,4027 @@
+[
+  {
+    "page_number": 1,
+    "elements": [
+      {
+        "type": "title",
+        "bbox": [
+          107.29939270019531,
+          479.7576599121094,
+          1365.4014892578125,
+          1001.7347412109375
+        ],
+        "confidence": 0.4506204426288605,
+        "content": "MICROECONOMICS by Robert S. Pindyck Daniel Rubinfeld Ninth Edition",
+        "id": "425467c5-338e-4413-9aac-3de71d2074ee"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          107.29939270019531,
+          479.7576599121094,
+          1365.4014892578125,
+          1001.7347412109375
+        ],
+        "confidence": 0.43685123324394226,
+        "content": "MICROECONOMICS by Robert S. Pindyck Daniel Rubinfeld Ninth Edition",
+        "id": "151fd72b-7769-4b81-b816-72c4c902a57d"
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "elements": [
+      {
+        "type": "plain text",
+        "bbox": [
+          1333.93408203125,
+          557.1904296875,
+          2267.006591796875,
+          691.2243041992188
+        ],
+        "confidence": 0.8865349292755127,
+        "content": "18.1 The Costs and Benefits of Sulfur Dioxide Emissions",
+        "id": "04d0cc38-1caf-4f5b-be9d-0c4a3efafef5"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          128.18441772460938,
+          558.7044677734375,
+          560.7933959960938,
+          622.908203125
+        ],
+        "confidence": 0.7137542366981506,
+        "content": "18.1 Externalities",
+        "id": "a81d20d9-33a0-4bcc-b290-75203f1eea89"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          125.12527465820312,
+          839.5648193359375,
+          714.912109375,
+          903.6605224609375
+        ],
+        "confidence": 0.7053974866867065,
+        "content": "18.2 Stock Externalities",
+        "id": "6b95d1ff-a747-42ae-b779-7f62be61dcaa"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          122.29912567138672,
+          436.9794616699219,
+          658.46875,
+          506.1091003417969
+        ],
+        "confidence": 0.7039348483085632,
+        "content": "CHAPTER OUTLINE",
+        "id": "496ead40-b64e-4a6d-aff7-1c6747986ab3"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          120.96062469482422,
+          92.98867797851562,
+          1967.7322998046875,
+          336.5395202636719
+        ],
+        "confidence": 0.6855008602142334,
+        "content": "Chapter 18 Externalities and Public Goods (1 of 2)",
+        "id": "2f708b9e-a4d7-4a20-ae3d-8f5a3075bb49"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          1332.2984619140625,
+          743.6408081054688,
+          2270.416748046875,
+          811.6173706054688
+        ],
+        "confidence": 0.6593937277793884,
+        "content": "18.1 Emissions Trading and Clean Air",
+        "id": "23df6b9b-43ad-4972-9aba-4d37e75dc478"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          126.70613861083984,
+          698.3382568359375,
+          1100.4947509765625,
+          766.8499145507812
+        ],
+        "confidence": 0.6424979567527771,
+        "content": "18.2 Ways of Correcting Market Failure",
+        "id": "8c20e054-ded1-4445-98e3-8d90c0a03314"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          1327.5576171875,
+          437.89044189453125,
+          1872.9639892578125,
+          506.3735046386719
+        ],
+        "confidence": 0.6360266804695129,
+        "content": "LIST OF EXAMPLES",
+        "id": "564e1ceb-24e3-4599-97b6-c5b55c6d3b9a"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          127.0146713256836,
+          977.369873046875,
+          1066.0472412109375,
+          1045.4259033203125
+        ],
+        "confidence": 0.5874079465866089,
+        "content": "18.2 Externalities and Property Rights",
+        "id": "a8e77946-5f9f-4fa6-bb52-ba00a44c18c1"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          126.93524932861328,
+          1119.2227783203125,
+          990.9420166015625,
+          1184.5841064453125
+        ],
+        "confidence": 0.5564216375350952,
+        "content": "18.2 Common Property Resources",
+        "id": "caf20ee0-9c99-4e5b-a5ec-ccd571ad51bf"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          1333.0247802734375,
+          863.170654296875,
+          2315.2216796875,
+          931.8510131835938
+        ],
+        "confidence": 0.517467737197876,
+        "content": "18.1 Regulating Municipal Solid Wastes",
+        "id": "a3d32b69-b0b4-4782-93ab-24048d52966f"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          126.13484954833984,
+          1259.2342529296875,
+          586.0554809570312,
+          1322.625
+        ],
+        "confidence": 0.457589328289032,
+        "content": "18.2 Public Goods",
+        "id": "68907230-78bb-4ad4-892c-4b6a3d188a76"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          124.06587982177734,
+          226.53646850585938,
+          1959.0653076171875,
+          336.8718566894531
+        ],
+        "confidence": 0.4360251724720001,
+        "content": "Externalities and Public Goods (1 of 2)",
+        "id": "057d1808-03ef-41f1-8462-19c95bb54b7a"
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "elements": [
+      {
+        "type": "plain text",
+        "bbox": [
+          121.76097106933594,
+          877.080810546875,
+          2357.89990234375,
+          1078.9119873046875
+        ],
+        "confidence": 0.9709782004356384,
+        "content": "The marginal cost of providing a public good to an additional consumer is zero, and people cannot be prevented from consuming it. We distinguish between those goods that are difficult to provide privately and those that could have been provided by the market.",
+        "id": "32c9b75a-1edb-4a93-8fc7-a1edb3e2a7bb"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          123.36180114746094,
+          438.4175109863281,
+          2343.018310546875,
+          640.9861450195312
+        ],
+        "confidence": 0.9683259725570679,
+        "content": "In this chapter we study externalities—the effects of production and consumption activities not directly reflected in the market—and public goods—goods that benefit all consumers but that the market either undersupplies or does not supply at all.",
+        "id": "d0132cab-28bf-4bfe-93b5-9b1be88400d4"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          124.58235168457031,
+          691.9600830078125,
+          2303.20361328125,
+          825.5335083007812
+        ],
+        "confidence": 0.9554450511932373,
+        "content": "When externalities are present, the price of a good need not reflect its social value. As a result, firms may produce too much or too little, so that the market outcome is inefficient.",
+        "id": "794501b0-fab7-4061-b7a7-b81ca8e97100"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          127.06771850585938,
+          227.2360382080078,
+          1851.8740234375,
+          331.5461120605469
+        ],
+        "confidence": 0.9278441071510315,
+        "content": "Externalities and Public Goods (2 of 2)",
+        "id": "e1ef061a-8aec-4f98-84bc-e3c97994bf91"
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "elements": [
+      {
+        "type": "plain text",
+        "bbox": [
+          122.53865814208984,
+          439.5248718261719,
+          2269.962158203125,
+          572.2316284179688
+        ],
+        "confidence": 0.9558471441268921,
+        "content": "externality Action by either a producer or a consumer which affects other producers or consumers, but is not accounted for in the market price.",
+        "id": "986bb6d3-033d-4e42-b8d1-3295e1963159"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          123.77619934082031,
+          624.9549560546875,
+          2250.005859375,
+          758.3812255859375
+        ],
+        "confidence": 0.9498501420021057,
+        "content": "Externalities can be negative—when the action of one party imposes costs on another party—or positive—when the action of one party benefits another party.",
+        "id": "8435fffa-21bd-4bef-b1f4-e8bdf421574e"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          121.8813705444336,
+          1113.984130859375,
+          2279.879150390625,
+          1247.0953369140625
+        ],
+        "confidence": 0.9406309723854065,
+        "content": "marginal social cost Sum of the marginal cost of production and the marginal external cost.",
+        "id": "38102074-6e19-4d93-ab15-fddd32d8dde4"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          128.22076416015625,
+          218.5474090576172,
+          1397.9920654296875,
+          334.5133056640625
+        ],
+        "confidence": 0.9403108358383179,
+        "content": "18.1 Externalities (1 of 4)",
+        "id": "5555e3c7-913b-4453-aab7-5a50d08a2cea"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          124.22398376464844,
+          929.1264038085938,
+          2357.5732421875,
+          1060.539306640625
+        ],
+        "confidence": 0.9208055138587952,
+        "content": "marginal external cost Increase in cost imposed externally as one or more firms increase output by one unit.",
+        "id": "7ce502c3-7b8b-47f6-8a6a-732989cacf2f"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          123.29515075683594,
+          810.2020874023438,
+          1145.810546875,
+          877.63818359375
+        ],
+        "confidence": 0.6601000428199768,
+        "content": "Negative Externalities and Inefficiency",
+        "id": "139c91ea-1929-49fd-ab24-69ef71657c94"
+      }
+    ]
+  },
+  {
+    "page_number": 5,
+    "elements": [
+      {
+        "type": "figure",
+        "bbox": [
+          131.21083068847656,
+          434.6008605957031,
+          797.8623657226562,
+          1087.79736328125
+        ],
+        "confidence": 0.9598711729049683,
+        "content": "{\n  \"type\": \"chart\",\n  \"chart_kind\": \"other\",\n  \"title\": null,\n  \"axes\": {\n    \"horizontal\": \"Firm output\",\n    \"vertical\": \"Price\"\n  },\n  \"series\": [\n    {\n      \"label\": \"MSC\",\n      \"color\": \"purple\",\n      \"style\": \"solid\"\n    },\n    {\n      \"label\": \"MC\",\n      \"color\": \"red\",\n      \"style\": \"solid\"\n    },\n    {\n      \"label\": null,\n      \"color\": \"blue\",\n      \"style\": \"solid\"\n    },\n    {\n      \"label\": \"MEC\",\n      \"color\": \"red\",\n      \"style\": \"solid\"\n    }\n  ],\n  \"legend_items\": [\"MSC\", \"MC\", \"MEC\"],\n  \"data_labels\": [\"P1\", \"q*\", \"q1\", \"(a)\"],\n  \"annotations\": []\n}",
+        "id": "5a840ac6-5a78-401c-a252-3dbc2c477eb9"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          122.31082153320312,
+          1270.2860107421875,
+          2239.91552734375,
+          1401.672607421875
+        ],
+        "confidence": 0.9142452478408813,
+        "content": "When there are negative externalities, the marginal social cost MSC is higher than the marginal cost MC.",
+        "id": "00327aa6-dca2-4a38-bd6d-8c463e472003"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          125.2645263671875,
+          228.40377807617188,
+          1248.5140380859375,
+          335.5767517089844
+        ],
+        "confidence": 0.8204540014266968,
+        "content": "18.1 Externalities (2 of 4)",
+        "id": "70de3a73-59f4-41c2-96b7-6291885f77ca"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          121.59034729003906,
+          1430.2281494140625,
+          1340.9427490234375,
+          1495.7008056640625
+        ],
+        "confidence": 0.7252131104469299,
+        "content": "The difference is the marginal external cost MEC.",
+        "id": "0f97ed7c-7039-461d-889d-cbbb97a04cf7"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          121.25924682617188,
+          1617.8519287109375,
+          1425.2080078125,
+          1685.6956787109375
+        ],
+        "confidence": 0.6768607497215271,
+        "content": "The efficient output is q*, at which price equals MSC.",
+        "id": "958170e2-8290-47d5-9d21-5d085975e5bb"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          118.68484497070312,
+          1107.2060546875,
+          668.2861938476562,
+          1253.6268310546875
+        ],
+        "confidence": 0.6345351338386536,
+        "content": "FIGURE 18.1 (1 of 2) EXTERNAL COST",
+        "id": "665a0a05-f157-4aea-b12c-8b0552690f41"
+      }
+    ]
+  },
+  {
+    "page_number": 6,
+    "elements": [
+      {
+        "type": "plain text",
+        "bbox": [
+          121.13258361816406,
+          1463.3143310546875,
+          2172.769287109375,
+          1689.77685546875
+        ],
+        "confidence": 0.9355795383453369,
+        "content": "In (b), the industry’s competitive output is Q1, at the intersection of industry supply MC and demand D. However, the efficient output Q* is lower, at the intersection of demand and marginal social cost MSC. The aggregate social cost is as the shaded triangle between MSCI, D, and output Q1.",
+        "id": "3553119b-459b-4c34-abc4-3bfa1b2a5e11"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          124.94668579101562,
+          227.6690673828125,
+          1247.794677734375,
+          335.40264892578125
+        ],
+        "confidence": 0.7160788178443909,
+        "content": "18.1 Externalities (3 of 4)",
+        "id": "4f68a57a-ba9b-4959-b1cb-11b508bb9448"
+      },
+      {
+        "type": "figure",
+        "bbox": [
+          141.45806884765625,
+          412.2940979003906,
+          2052.017578125,
+          1291.6629638671875
+        ],
+        "confidence": 0.7122952938079834,
+        "content": "{\n  \"type\": \"chart\",\n  \"chart_kind\": \"other\",\n  \"title\": null,\n  \"axes\": {\n    \"horizontal\": \"Firm output\",\n    \"vertical\": \"Price\"\n  },\n  \"series\": [\n    {\n      \"label\": \"MSC\",\n      \"color\": \"purple\",\n      \"style\": \"solid\"\n    },\n    {\n      \"label\": \"MC\",\n      \"color\": \"red\",\n      \"style\": \"solid\"\n    },\n    {\n      \"label\": \"MEC\",\n      \"color\": \"red\",\n      \"style\": \"solid\"\n    }\n  ],\n  \"legend_items\": [],\n  \"data_labels\": [\n    \"P1\",\n    \"q*\",\n    \"q1\",\n    \"(a)\"\n  ],\n  \"annotations\": []\n}\n\n  \n  \n\n",
+        "id": "2fc14f80-fe82-4590-b40a-0f478f130487"
+      }
+    ]
+  },
+  {
+    "page_number": 7,
+    "elements": [
+      {
+        "type": "plain text",
+        "bbox": [
+          121.96198272705078,
+          752.8959350585938,
+          1350.325927734375,
+          879.2467651367188
+        ],
+        "confidence": 0.9464356899261475,
+        "content": "marginal social benefit Sum of the marginal private benefit plus the marginal external benefit.",
+        "id": "d645d77f-3262-402b-86a1-6d41d05e3476"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          124.65775299072266,
+          230.2904510498047,
+          1246.3546142578125,
+          331.2087097167969
+        ],
+        "confidence": 0.933951735496521,
+        "content": "18.1 Externalities (4 of 4)",
+        "id": "b697e072-6cc2-45b9-9954-d09cb392eace"
+      },
+      {
+        "type": "figure",
+        "bbox": [
+          1497.6844482421875,
+          601.5174560546875,
+          2351.33544921875,
+          1507.1846923828125
+        ],
+        "confidence": 0.9320458173751831,
+        "content": "{\n  \"type\": \"chart\",\n  \"chart_kind\": \"other\",\n  \"title\": null,\n  \"axes\": {\n    \"horizontal\": \"Repair level\",\n    \"vertical\": \"Value\"\n  },\n  \"series\": [\n    {\n      \"label\": \"MSB\",\n      \"color\": \"teal\",\n      \"style\": \"solid\"\n    },\n    {\n      \"label\": \"D\",\n      \"color\": \"blue\",\n      \"style\": \"solid\"\n    },\n    {\n      \"label\": \"MEB\",\n      \"color\": \"light blue\",\n      \"style\": \"solid\"\n    },\n    {\n      \"label\": \"MC\",\n      \"color\": \"red\",\n      \"style\": \"solid\"\n    }\n  ],\n  \"legend_items\": [],\n  \"data_labels\": [\n    \"P1\",\n    \"P*\",\n    \"q1\",\n    \"q*\"\n  ],\n  \"annotations\": []\n}",
+        "id": "c3ee4384-83dd-4e3e-8e2c-92801cc1a8ea"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          121.72058868408203,
+          512.65869140625,
+          1357.5570068359375,
+          700.970703125
+        ],
+        "confidence": 0.7502537369728088,
+        "content": "marginal external benefit Increased benefit that accrues to other parties as a firm increases output by one unit.",
+        "id": "7e50771f-b74f-4df9-99f1-ad822f8a5ebc"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          120.48259735107422,
+          930.829833984375,
+          683.7931518554688,
+          1053.2044677734375
+        ],
+        "confidence": 0.6925202012062073,
+        "content": "FIGURE 18.2 EXTERNAL BENEFITS",
+        "id": "e3989f2d-a116-42d8-89f6-94fa8879f7b4"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          122.30366516113281,
+          1434.8175048828125,
+          1380.9710693359375,
+          1619.2247314453125
+        ],
+        "confidence": 0.6919371485710144,
+        "content": "The efficient level of repair q* is higher and is given by the intersection of the marginal social benefit and marginal cost curves.",
+        "id": "3f02771a-6bb6-412a-a22f-cf2e20d4d2c8"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          122.3948974609375,
+          1059.2425537109375,
+          1366.4547119140625,
+          1430.551025390625
+        ],
+        "confidence": 0.5687227249145508,
+        "content": "When there are positive externalities, marginal social benefits MSB are higher than marginal benefits D. The difference is the marginal external benefit MEB. A self-interested homeowner invests q1 in repairs, determined by the intersection of the marginal benefit curve D and the marginal cost curve MC.",
+        "id": "e473daf7-8651-4f14-a666-143f13f24304"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          124.14395904541016,
+          370.2819519042969,
+          1128.9998779296875,
+          435.9872741699219
+        ],
+        "confidence": 0.5670664310455322,
+        "content": "Positive Externalities and Inefficiency",
+        "id": "368fbe38-ce1d-4234-acc1-8ff541d71f8e"
+      }
+    ]
+  },
+  {
+    "page_number": 8,
+    "elements": [
+      {
+        "type": "plain text",
+        "bbox": [
+          120.44027709960938,
+          435.0531311035156,
+          2367.34130859375,
+          705.1179809570312
+        ],
+        "confidence": 0.9693505167961121,
+        "content": "Although sulfur dioxide gas can be produced naturally by volcanoes, almost two-thirds of all sulfur dioxide emissions in the United States come from electric power generation that depends on burning fossil fuels such as coal and petroleum. In addition to human health, acid rain causes damage to water and forests as well as to man-made structures.",
+        "id": "d85047a8-3cdb-4d8c-b771-bc7973fcceda"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          121.943359375,
+          1073.251953125,
+          1341.688720703125,
+          1271.759033203125
+        ],
+        "confidence": 0.9503050446510315,
+        "content": "The efficient sulfur dioxide concentration equates the marginal abatement cost to the marginal external cost.",
+        "id": "4ed9fb3c-6383-40af-a120-446c85a93bf2"
+      },
+      {
+        "type": "figure",
+        "bbox": [
+          1539.3572998046875,
+          851.1783447265625,
+          2354.350830078125,
+          1464.0306396484375
+        ],
+        "confidence": 0.9471185207366943,
+        "content": "{\n  \"type\": \"chart\",\n  \"chart_kind\": \"line\",\n  \"title\": null,\n  \"axes\": {\n    \"horizontal\": \"Sulfur dioxide concentration (ppm)\",\n    \"vertical\": \"Dollars per unit of reduction\"\n  },\n  \"series\": [\n    {\n      \"label\": null,\n      \"color\": \"red\",\n      \"style\": \"dotted\"\n    },\n    {\n      \"label\": null,\n      \"color\": \"blue\",\n      \"style\": \"solid\"\n    }\n  ],\n  \"legend_items\": [],\n  \"data_labels\": [],\n  \"annotations\": [\n    \"Marginal External Cost\",\n    \"Marginal Abatement Cost\"\n  ]\n}",
+        "id": "c4349dd9-427e-46d8-9dd3-903287015aef"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          120.98804473876953,
+          95.09683227539062,
+          2426.953857421875,
+          330.7060852050781
+        ],
+        "confidence": 0.9224539399147034,
+        "content": "EXAMPLE 18.1 THE COSTS AND BENEFITS OF SULFUR DIOXIDE EMISSIONS",
+        "id": "66f754fc-8901-4002-8623-a568099c964c"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          120.93499755859375,
+          1326.62744140625,
+          1384.97998046875,
+          1528.8165283203125
+        ],
+        "confidence": 0.891357958316803,
+        "content": "Here the marginal abatement cost curve is a series of steps, each representing the use of a different abatement technology.",
+        "id": "02606c8f-9120-4fa8-a9a0-ac5be2a69958"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          122.35641479492188,
+          951.0738525390625,
+          1308.614990234375,
+          1020.8543701171875
+        ],
+        "confidence": 0.8651066422462463,
+        "content": "SULFUR DIOXIDE EMISSIONS REDUCTIONS",
+        "id": "96b95c7a-191e-46a6-a60c-c41542166c61"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          123.13731384277344,
+          835.118896484375,
+          466.3043212890625,
+          901.2088623046875
+        ],
+        "confidence": 0.8473080992698669,
+        "content": "FIGURE 18.3",
+        "id": "70231a23-7cb0-4a81-95f6-ddd24939c51d"
+      }
+    ]
+  },
+  {
+    "page_number": 9,
+    "elements": [
+      {
+        "type": "plain text",
+        "bbox": [
+          122.34796142578125,
+          1035.15673828125,
+          1201.650634765625,
+          1221.718017578125
+        ],
+        "confidence": 0.9699123501777649,
+        "content": "Here the marginal abatement cost curve is a series of steps, each representing the use of a different abatement technology.",
+        "id": "f7464391-7e83-44a2-9933-07622ede9344"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          123.20906066894531,
+          1470.238037109375,
+          2360.294677734375,
+          1598.503662109375
+        ],
+        "confidence": 0.9535675644874573,
+        "content": "We can encourage the firm to reduce emissions to E* in three ways: (1) emissions standards; (2) emissions fees; and (3) transferable emissions permits.",
+        "id": "3f2365fb-0535-478b-9574-eea79eb4685f"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          121.85454559326172,
+          1293.6353759765625,
+          2249.025390625,
+          1418.839111328125
+        ],
+        "confidence": 0.9485883712768555,
+        "content": "With no effort at abatement, the firm’s profit-maximizing level of emissions is 26, the level at which the marginal cost of abatement is zero.",
+        "id": "6a370ba5-334d-4b92-a050-c6544413cd98"
+      },
+      {
+        "type": "figure",
+        "bbox": [
+          1386.5411376953125,
+          443.5764465332031,
+          2358.153564453125,
+          1098.3201904296875
+        ],
+        "confidence": 0.934471845626831,
+        "content": "{\n  \"type\": \"chart\",\n  \"chart_kind\": \"other\",\n  \"title\": null,\n  \"axes\": {\n    \"horizontal\": \"Level of emissions\",\n    \"vertical\": \"Dollars per unit of emissions\"\n  },\n  \"series\": [\n    {\n      \"label\": \"MEC\",\n      \"color\": \"blue\",\n      \"style\": \"solid\"\n    },\n    {\n      \"label\": \"MCA\",\n      \"color\": \"red\",\n      \"style\": \"solid\"\n    }\n  ],\n  \"legend_items\": [\n    \"MEC\",\n    \"MCA\"\n  ],\n  \"data_labels\": [\n    \"E0\",\n    \"E*\",\n    \"E1\"\n  ],\n  \"annotations\": []\n}",
+        "id": "544e4791-b3cd-4f65-8f57-6f652dfb38d8"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          128.21347045898438,
+          89.16039276123047,
+          2158.34326171875,
+          355.6120910644531
+        ],
+        "confidence": 0.9008588790893555,
+        "content": "18.2 Ways of Correcting Market Failure (1 of 6)",
+        "id": "95edf614-1aa8-45dd-a8c7-6b37248212a9"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          125.57149505615234,
+          550.3616333007812,
+          1091.7781982421875,
+          616.6444091796875
+        ],
+        "confidence": 0.8472139239311218,
+        "content": "THE EFFICIENT LEVEL OF EMISSIONS",
+        "id": "0374899b-e282-427e-a34d-40f127e0de31"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          122.6575698852539,
+          668.5374755859375,
+          1216.59619140625,
+          981.63232421875
+        ],
+        "confidence": 0.7951421141624451,
+        "content": "The efficient level of factory emissions is the level that equates the marginal external cost of emissions MEC to the benefit associated with lower abatement costs MCA. The efficient level of 12 units is E*.",
+        "id": "9e6f54ab-27c5-44a8-8513-c5501d8901b4"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          122.788330078125,
+          436.31182861328125,
+          446.6177673339844,
+          500.95172119140625
+        ],
+        "confidence": 0.7145596742630005,
+        "content": "FIGURE 18.4",
+        "id": "244392aa-b2b2-4bb2-99fb-56b826a6ee8d"
+      }
+    ]
+  },
+  {
+    "page_number": 10,
+    "elements": [
+      {
+        "type": "plain text",
+        "bbox": [
+          121.95393371582031,
+          674.1605834960938,
+          2287.0966796875,
+          944.1250610351562
+        ],
+        "confidence": 0.9696070551872253,
+        "content": "The standard ensures that the firm produces efficiently. The firm meets the standard by installing pollution-abatement equipment. Firms will find it profitable to enter the industry only if the price of the product is greater than the average cost of production plus abatement—the efficient condition for the industry.",
+        "id": "2d8851f4-47b1-4d7c-bf15-830288880eee"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          122.44314575195312,
+          556.5293579101562,
+          2107.57373046875,
+          624.8621215820312
+        ],
+        "confidence": 0.9225969910621643,
+        "content": "emissions standard Legal limit on the amount of pollutants that a firm can emit.",
+        "id": "43eb5b60-153c-479f-aa25-835b3219fe48"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          123.09983825683594,
+          1115.7889404296875,
+          1708.5140380859375,
+          1181.061279296875
+        ],
+        "confidence": 0.9213716387748718,
+        "content": "emissions fee Charge levied on each unit of a firm’s emissions.",
+        "id": "654e669e-d0d0-40b2-8aac-698b20023240"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          127.7017593383789,
+          225.23065185546875,
+          2254.756103515625,
+          337.5097351074219
+        ],
+        "confidence": 0.9207596182823181,
+        "content": "18.2 Ways of Correcting Market Failure (2 of 6)",
+        "id": "6a154c14-a6c9-4f58-9da7-ccb8ef276800"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          123.44889831542969,
+          439.1893005371094,
+          758.4425048828125,
+          506.41827392578125
+        ],
+        "confidence": 0.6113049983978271,
+        "content": "An Emissions Standard",
+        "id": "066366a9-45e1-46f8-bfd7-dc5adfd7da04"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          122.50706481933594,
+          996.39013671875,
+          612.3945922851562,
+          1060.604736328125
+        ],
+        "confidence": 0.5207610726356506,
+        "content": "An Emissions Fee",
+        "id": "010f1d0b-ab25-46d8-a624-65897614100e"
+      }
+    ]
+  },
+  {
+    "page_number": 11,
+    "elements": [
+      {
+        "type": "plain text",
+        "bbox": [
+          122.16717529296875,
+          677.3525390625,
+          1211.76025390625,
+          876.6690063476562
+        ],
+        "confidence": 0.9729394316673279,
+        "content": "The efficient level of emissions at E* can be achieved through either an emissions fee or an emissions standard.",
+        "id": "57067439-8ca7-4611-a653-c9d318eec83c"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          120.43952941894531,
+          928.2937622070312,
+          1211.653076171875,
+          1195.13720703125
+        ],
+        "confidence": 0.957840621471405,
+        "content": "Facing a fee of $3 per unit of emissions, a firm reduces emissions to the point at which the fee is equal to the marginal cost of abatement.",
+        "id": "0d782dd7-0515-4d16-a0f8-f13551a78684"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          121.6074447631836,
+          1249.528564453125,
+          1185.9163818359375,
+          1448.4876708984375
+        ],
+        "confidence": 0.9538949131965637,
+        "content": "The same level of emissions reduction can be achieved with a standard that limits emissions to 12 units.",
+        "id": "19450e7f-fb1f-42c8-ad30-7f46707edfbe"
+      },
+      {
+        "type": "figure",
+        "bbox": [
+          1303.0076904296875,
+          444.3468322753906,
+          2368.90087890625,
+          1240.509765625
+        ],
+        "confidence": 0.9359679222106934,
+        "content": "{\n  \"type\": \"chart\",\n  \"chart_kind\": \"other\",\n  \"title\": null,\n  \"axes\": {\n    \"horizontal\": \"Level of emissions\",\n    \"vertical\": \"Dollars per unit of emissions\"\n  },\n  \"series\": [\n    {\n      \"label\": \"MEC\",\n      \"color\": \"red\",\n      \"style\": \"solid\"\n    },\n    {\n      \"label\": \"MCA\",\n      \"color\": \"blue\",\n      \"style\": \"solid\"\n    }\n  ],\n  \"legend_items\": [],\n  \"data_labels\": [\"E*\", \"3\", \"12\", \"26\"],\n  \"annotations\": [\"Fee\", \"Standard\"]\n}",
+        "id": "4286be3a-1858-4674-a906-8034af90c2f8"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          121.86073303222656,
+          554.6919555664062,
+          772.6674194335938,
+          624.4597778320312
+        ],
+        "confidence": 0.909973680973053,
+        "content": "STANDARDS AND FEES",
+        "id": "152a97e7-64bd-46a8-b8ad-96d944fd9be1"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          125.52261352539062,
+          224.90721130371094,
+          2258.606689453125,
+          339.6337890625
+        ],
+        "confidence": 0.8884035348892212,
+        "content": "18.2 Ways of Correcting Market Failure (3 of 6)",
+        "id": "3d8ec285-1394-4a81-aa4a-86fb0e4d5817"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          122.69888305664062,
+          437.47418212890625,
+          467.92047119140625,
+          505.6300048828125
+        ],
+        "confidence": 0.5361019372940063,
+        "content": "FIGURE 18.5",
+        "id": "55cd25c9-a9f7-491b-bceb-3ac04e2e1d75"
+      }
+    ]
+  },
+  {
+    "page_number": 12,
+    "elements": [
+      {
+        "type": "plain text",
+        "bbox": [
+          120.44161987304688,
+          1194.4412841796875,
+          1260.1923828125,
+          1396.6602783203125
+        ],
+        "confidence": 0.9563000798225403,
+        "content": "With the fee, the firm with a lower abatement cost curve (Firm 2) reduces emissions more than the firm with a higher cost curve (Firm 1).",
+        "id": "a5ba4595-f003-470a-9888-0bdbaa16ab83"
+      },
+      {
+        "type": "figure",
+        "bbox": [
+          1300.5438232421875,
+          433.3485412597656,
+          2377.808837890625,
+          1245.136474609375
+        ],
+        "confidence": 0.9435961246490479,
+        "content": "{\n  \"type\": \"chart\",\n  \"chart_kind\": \"other\",\n  \"title\": null,\n  \"axes\": {\n    \"horizontal\": \"Level of emissions\",\n    \"vertical\": \"Dollars per unit of emissions\"\n  },\n  \"series\": [\n    {\n      \"label\": \"MCA₂\",\n      \"color\": \"red\",\n      \"style\": \"solid\"\n    },\n    {\n      \"label\": \"MCA₁\",\n      \"color\": \"red\",\n      \"style\": \"solid\"\n    },\n    {\n      \"label\": \"Fee\",\n      \"color\": \"black\",\n      \"style\": \"solid\"\n    }\n  ],\n  \"legend_items\": [\n    \"MCA₂\",\n    \"MCA₁\",\n    \"Fee\"\n  ],\n  \"data_labels\": [\n    \"6\",\n    \"5\",\n    \"4\",\n    \"3.75\",\n    \"3\",\n    \"2.50\",\n    \"2\",\n    \"1\",\n    \"1\",\n    \"2\",\n    \"3\",\n    \"4\",\n    \"5\",\n    \"6\",\n    \"7\",\n    \"8\",\n    \"9\",\n    \"10\",\n    \"11\",\n    \"12\",\n    \"13\",\n    \"14\"\n  ],\n  \"annotations\": [\n    \"Firm 2's Reduced Abatement Costs\",\n    \"Firm 1's Increased Abatement Costs\",\n    \"arrows\",\n    \"highlighted regions\"\n  ]\n}",
+        "id": "038d8c3e-5c94-4619-981c-a8b9ef8d4a7a"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          119.85436248779297,
+          693.5514526367188,
+          1234.40673828125,
+          956.5736694335938
+        ],
+        "confidence": 0.9427129030227661,
+        "content": "With limited information, a policymaker may be faced with the choice of either a single emissions fee or a single emissions standard for all firms.",
+        "id": "fa492ad6-eef8-4d88-b1ba-92fe721b010a"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          121.2430419921875,
+          977.35986328125,
+          1254.8631591796875,
+          1174.50048828125
+        ],
+        "confidence": 0.94090735912323,
+        "content": "The fee of $3 achieves a total emissions level of 14 units more cheaply than a 7-unit-per- firm emissions standard.",
+        "id": "ff92489e-2e89-422d-a7b3-3d058f853758"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          125.4399185180664,
+          224.98365783691406,
+          2258.4560546875,
+          339.5310363769531
+        ],
+        "confidence": 0.8841071724891663,
+        "content": "18.2 Ways of Correcting Market Failure (4 of 6)",
+        "id": "a336c692-47df-4f5e-bc19-d10f1d1b2eed"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          122.45834350585938,
+          607.3453979492188,
+          709.6663818359375,
+          673.1981201171875
+        ],
+        "confidence": 0.5504331588745117,
+        "content": "THE CASE FOR FEES",
+        "id": "80cf251e-0e0b-4cec-8131-7d68ef076495"
+      }
+    ]
+  },
+  {
+    "page_number": 13,
+    "elements": [
+      {
+        "type": "plain text",
+        "bbox": [
+          118.69013977050781,
+          796.0428466796875,
+          1420.1075439453125,
+          1197.8072509765625
+        ],
+        "confidence": 0.9724546670913696,
+        "content": "When the government has limited information about the costs and benefits of pollution abatement, either a standard or a fee may be preferable. The standard is preferable when the marginal external cost curve is steep and the marginal abatement cost curve is relatively flat.",
+        "id": "6f10fb18-3ef0-495b-9b94-4850ea0212ab"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          122.52320098876953,
+          1436.130126953125,
+          1347.4927978515625,
+          1565.972900390625
+        ],
+        "confidence": 0.9476130604743958,
+        "content": "The same percentage error in setting a fee would result in excess costs of ABC.",
+        "id": "fca66f30-6ced-4c56-8c75-7eee42dd6469"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          122.26347351074219,
+          1249.7298583984375,
+          1323.5491943359375,
+          1381.6534423828125
+        ],
+        "confidence": 0.9377219080924988,
+        "content": "Here a 12.5 percent error in setting the standard leads to extra social costs of triangle ADE.",
+        "id": "a559ed43-30a0-4d31-8f6e-7d793d3ec2d8"
+      },
+      {
+        "type": "figure",
+        "bbox": [
+          1470.5023193359375,
+          450.92657470703125,
+          2347.916748046875,
+          1244.2620849609375
+        ],
+        "confidence": 0.9323293566703796,
+        "content": "{\n  \"type\": \"chart\",\n  \"chart_kind\": \"line\",\n  \"title\": null,\n  \"axes\": {\n    \"horizontal\": \"Level of emissions\",\n    \"vertical\": \"Dollars per unit of emissions\"\n  },\n  \"series\": [\n    {\n      \"label\": null,\n      \"color\": \"blue\",\n      \"style\": \"solid\"\n    },\n    {\n      \"label\": null,\n      \"color\": \"red\",\n      \"style\": \"solid\"\n    }\n  ],\n  \"legend_items\": [],\n  \"data_labels\": [\"A\", \"B\", \"C\", \"D\", \"E\"],\n  \"annotations\": [\n    \"Marginal Social Cost\",\n    \"Marginal Cost of Abatement\",\n    \"highlighted region\"\n  ]\n}",
+        "id": "9a0cb8f5-ef8d-4739-a06f-b96521d9b41e"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          126.76090240478516,
+          225.13233947753906,
+          2257.55126953125,
+          338.583984375
+        ],
+        "confidence": 0.9096490740776062,
+        "content": "18.2 Ways of Correcting Market Failure (5 of 6)",
+        "id": "e82caea5-949a-4711-aff2-34f64ced5c81"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          123.0055160522461,
+          673.566162109375,
+          902.5870361328125,
+          743.5253295898438
+        ],
+        "confidence": 0.8179373741149902,
+        "content": "THE CASE FOR STANDARDS",
+        "id": "281899ef-114b-4216-951e-14449a4aed09"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          123.22411346435547,
+          555.3807983398438,
+          465.5556640625,
+          623.2136840820312
+        ],
+        "confidence": 0.6917637586593628,
+        "content": "FIGURE 18.7",
+        "id": "6539d2e7-569f-4e9b-8afa-e93cdb32498a"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          123.66861724853516,
+          436.533935546875,
+          902.0175170898438,
+          506.1461181640625
+        ],
+        "confidence": 0.5692958831787109,
+        "content": "THE CASE FOR STANDARDS",
+        "id": "16fdd302-7364-4f37-a430-8eee1c247090"
+      }
+    ]
+  },
+  {
+    "page_number": 14,
+    "elements": [
+      {
+        "type": "plain text",
+        "bbox": [
+          120.13316345214844,
+          1062.8463134765625,
+          2364.1572265625,
+          1465.492919921875
+        ],
+        "confidence": 0.9774467349052429,
+        "content": "If there are enough firms and permits, a competitive market will develop. In equilibrium, the price of a permit equals the marginal cost of abatement for all firms; otherwise, a firm will find it advantageous to buy more permits. The level of emissions chosen by the government will be achieved at minimum cost. Those firms with relatively low marginal cost of abatement curves will be reducing emissions the most, and those with relatively high marginal cost of abatement will be buying more permits and reducing emissions the least.",
+        "id": "8d414209-f324-453d-919d-8111e7794309"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          122.32184600830078,
+          743.4451904296875,
+          2309.5712890625,
+          1010.0830078125
+        ],
+        "confidence": 0.9756026268005371,
+        "content": "Each permit specifies the number of units of emissions that the firm is allowed to put out. Excess emissions are subject to substantial monetary sanctions. The total number of permits is chosen to achieve the desired maximum level of emissions. Permits are marketable: They can be bought and sold.",
+        "id": "c2a60954-a0e4-4a83-adee-4676905da6ec"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          123.93504333496094,
+          558.1649780273438,
+          2192.771484375,
+          691.3104248046875
+        ],
+        "confidence": 0.9538562893867493,
+        "content": "tradable emissions permits System of marketable permits, allocated among firms, specifying the maximum level of emissions that can be generated.",
+        "id": "6e8e361e-b8fd-458e-9637-1223947d7565"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          127.14550018310547,
+          225.0651397705078,
+          2255.914306640625,
+          337.79278564453125
+        ],
+        "confidence": 0.9268678426742554,
+        "content": "18.2 Ways of Correcting Market Failure (6 of 6)",
+        "id": "3911a4e8-26a6-4c94-bac0-e878e974a5b8"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          125.22012329101562,
+          439.0495300292969,
+          873.7376708984375,
+          506.56036376953125
+        ],
+        "confidence": 0.8211002945899963,
+        "content": "Tradable Emissions Permits",
+        "id": "a35eded2-fc7b-413a-aad6-49a152df9563"
+      }
+    ]
+  },
+  {
+    "page_number": 15,
+    "elements": [
+      {
+        "type": "plain text",
+        "bbox": [
+          120.12720489501953,
+          981.11572265625,
+          2343.191162109375,
+          1296.54052734375
+        ],
+        "confidence": 0.9823870658874512,
+        "content": "Bubble and offset programs substantially understate the potential gain from a broad-based emissions trading program. The 1990 Clean Air Act focused on transferable permits as a way of dealing with “acid rain.” In 2005 the program was modified through the Clean Air Interstate Rule to put a “cap” on emissions in 25 states while continuing to allow emissions “trades”—hence the term “cap and trade” program.",
+        "id": "eab56d29-d20d-44db-957a-4f0106a76828"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          120.96614074707031,
+          1346.0640869140625,
+          2366.492919921875,
+          1658.84033203125
+        ],
+        "confidence": 0.9758578538894653,
+        "content": "In the early 1990s, economists expected these permits to trade for around $300, but reducing sulfur dioxide emissions was less costly than anticipated. From 2005 to 2006, the price of permits rose sharply, hitting a high of nearly $1600 in December 2005, but starting in 2007, the market price of emission permits began to decline, in part because the EPA lost a lawsuit brought by a group of utilities.",
+        "id": "2f48ec56-d6ba-419b-a47d-002132de9132"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          123.05945587158203,
+          742.7859497070312,
+          2335.3935546875,
+          928.644287109375
+        ],
+        "confidence": 0.974595308303833,
+        "content": "Under the offset program, new sources of emissions may be found, but only if they offset their new emissions by reducing emissions from existing sources by at least as much. A total of more than 2000 offset transactions have occurred since 1976.",
+        "id": "2cd6211b-141f-4d04-8f78-7f18174945ce"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          121.70702362060547,
+          435.9766845703125,
+          2318.752197265625,
+          690.3013916015625
+        ],
+        "confidence": 0.9701160192489624,
+        "content": "In the 1980s and 1990s, the Environmental Protection Agency’s “bubble” and “offset” programs were modest attempts to use a trading system to lower the cleanup costs of emissions. Abatement cost savings associated with the EPA’s program of 42 bubbles have been approximately $300 million per year since 1979.",
+        "id": "ce15a897-2e94-48f8-9df0-0e820454e06f"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          123.63017272949219,
+          96.70816802978516,
+          2229.719482421875,
+          325.6678771972656
+        ],
+        "confidence": 0.9382403492927551,
+        "content": "EXAMPLE 18.2 EMISSIONS TRADING AND CLEAN AIR",
+        "id": "48a01911-1f0b-4e62-85b7-8376b0928bae"
+      }
+    ]
+  },
+  {
+    "page_number": 16,
+    "elements": [
+      {
+        "type": "plain text",
+        "bbox": [
+          120.1972427368164,
+          1389.1859130859375,
+          2359.2216796875,
+          1682.8350830078125
+        ],
+        "confidence": 0.9751879572868347,
+        "content": "The price of tradeable permits for sulfur dioxide emissions fluctuated between $100 and $200 from 1993 to 2003, but then increased sharply in 2005 and 2006 in response to an increased demand for permits. The price fluctuated between $400 and $500 per ton for the next few years, before the stock market crashed in 2008. By 2012, the price of permits was close to zero, and the permit market had effectively collapsed.",
+        "id": "81477dd9-4eaf-4e87-afb2-6a598678d7c1"
+      },
+      {
+        "type": "figure",
+        "bbox": [
+          603.8206176757812,
+          445.31103515625,
+          1897.4361572265625,
+          1140.5986328125
+        ],
+        "confidence": 0.9612303376197815,
+        "content": "{\n  \"type\": \"chart\",\n  \"chart_kind\": \"line\",\n  \"title\": null,\n  \"axes\": {\n    \"horizontal\": \"Year\",\n    \"vertical\": \"Price (dollars/ton)\"\n  },\n  \"series\": [\n    {\n      \"label\": null,\n      \"color\": \"light blue\",\n      \"style\": \"solid\"\n    }\n  ],\n  \"legend_items\": [],\n  \"data_labels\": [],\n  \"annotations\": []\n}",
+        "id": "1b21945b-3c3f-42fc-95a9-5c198ab4d48c"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          123.93132019042969,
+          1312.6778564453125,
+          1187.7059326171875,
+          1372.11083984375
+        ],
+        "confidence": 0.8947352170944214,
+        "content": "PRICE OF TRADEABLE EMISSIONS PERMITS",
+        "id": "2bcb10c0-d075-49d1-bc27-82774951acb6"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          120.85318756103516,
+          85.32472229003906,
+          2228.667236328125,
+          358.7977600097656
+        ],
+        "confidence": 0.8875960111618042,
+        "content": "EXAMPLE 18.3 EMISSIONS TRADING AND CLEAN AIR (1 of 2)",
+        "id": "8526cad7-5919-4873-bc7a-0c6a7ee28607"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          122.64154815673828,
+          1160.3531494140625,
+          810.8915405273438,
+          1220.940185546875
+        ],
+        "confidence": 0.7571987509727478,
+        "content": "THE CASE FOR STANDARDS",
+        "id": "dcf083c0-486a-4e29-8a7d-b11d8af578a3"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          123.37152099609375,
+          1239.1478271484375,
+          424.6305847167969,
+          1295.051025390625
+        ],
+        "confidence": 0.6278889775276184,
+        "content": "FIGURE 18.8",
+        "id": "4994b7d5-5830-4de0-a423-fbe16c73fc9d"
+      }
+    ]
+  },
+  {
+    "page_number": 17,
+    "elements": [
+      {
+        "type": "plain text",
+        "bbox": [
+          122.29159545898438,
+          1414.4158935546875,
+          2334.2509765625,
+          1615.5714111328125
+        ],
+        "confidence": 0.9727191925048828,
+        "content": "Until recently, coal had been the primary fuel for generating electricity, accounting for over 50% of electricity generation during the 1980s and 1990s. But starting around 2000, coal has been increasingly displaced by natural gas.",
+        "id": "ed4bf1d6-c8f9-4783-8ef1-919757f3ebce"
+      },
+      {
+        "type": "figure",
+        "bbox": [
+          693.2907104492188,
+          445.5168151855469,
+          1756.2801513671875,
+          1150.4964599609375
+        ],
+        "confidence": 0.9657820463180542,
+        "content": "{\n  \"type\": \"chart\",\n  \"chart_kind\": \"line\",\n  \"title\": \"Annual Share of Total U.S. Electricity Generation by Source (1970–2016)\",\n  \"axes\": {\n    \"horizontal\": \"Year\",\n    \"vertical\": \"Percent of Total\"\n  },\n  \"series\": [\n    {\n      \"label\": \"Coal\",\n      \"color\": \"blue\",\n      \"style\": \"solid\"\n    },\n    {\n      \"label\": \"Petroleum\",\n      \"color\": \"red\",\n      \"style\": \"solid\"\n    },\n    {\n      \"label\": \"Natural Gas\",\n      \"color\": \"cyan\",\n      \"style\": \"solid\"\n    },\n    {\n      \"label\": \"Nuclear\",\n      \"color\": \"purple\",\n      \"style\": \"solid\"\n    },\n    {\n      \"label\": \"Hydro\",\n      \"color\": \"light blue\",\n      \"style\": \"solid\"\n    },\n    {\n      \"label\": \"Nonhydro Renewables\",\n      \"color\": \"peach\",\n      \"style\": \"solid\"\n    }\n  ],\n  \"legend_items\": [\n    \"Coal\",\n    \"Petroleum\",\n    \"Natural Gas\",\n    \"Nuclear\",\n    \"Hydro\",\n    \"Nonhydro Renewables\"\n  ],\n  \"data_labels\": [],\n  \"annotations\": []\n}",
+        "id": "1c096cb6-cd93-4182-b069-7db07cc67d58"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          124.70767211914062,
+          1308.2666015625,
+          1402.0340576171875,
+          1378.863525390625
+        ],
+        "confidence": 0.9120832085609436,
+        "content": "FUEL MIX FOR U.S. ELECTRICITY GENERATION",
+        "id": "6d9a932f-39e3-4cb3-9f32-0a985e31b1dc"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          123.38549041748047,
+          94.93238830566406,
+          2226.410888671875,
+          337.5512390136719
+        ],
+        "confidence": 0.9087318181991577,
+        "content": "EXAMPLE 18.3 EMISSIONS TRADING AND CLEAN AIR (2 of 2)",
+        "id": "251b0d1c-ae28-4fd9-9cfb-cd5ae0fa6443"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          124.25907135009766,
+          1210.3360595703125,
+          465.6212158203125,
+          1275.2230224609375
+        ],
+        "confidence": 0.7299150228500366,
+        "content": "FIGURE 18.9",
+        "id": "690c18d5-0496-4491-b524-d2ecf27da1cb"
+      }
+    ]
+  },
+  {
+    "page_number": 18,
+    "elements": [
+      {
+        "type": "plain text",
+        "bbox": [
+          120.29737854003906,
+          1116.0443115234375,
+          2365.06982421875,
+          1651.2978515625
+        ],
+        "confidence": 0.9782841801643372,
+        "content": "The low cost of disposal creates a divergence between the private and social cost. The marginal private cost, which is the cost to the household of throwing out the glass, is likely to be constant (independent of the amount of disposal) for low to moderate levels of disposal. It will then increase for large disposal levels involving additional shipping and dump charges. In contrast, the social cost of disposal includes the harm to the environment from littering, and injuries. Marginal social cost is likely to increase, in part because the marginal private cost is increasing and in part because the environmental and aesthetic costs of littering are likely to increase sharply as the level of disposal increases.",
+        "id": "ab125fd3-e8a9-455c-92e3-4eeb46f6c236"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          125.38150024414062,
+          557.912841796875,
+          2279.63427734375,
+          689.49462890625
+        ],
+        "confidence": 0.9590930938720703,
+        "content": "The disposal of waste products involves little or no private cost. This means that society will dispose of too much waste material.",
+        "id": "14f5c6c7-64c8-471b-a823-439264d527cb"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          123.90673828125,
+          929.2072143554688,
+          2190.802490234375,
+          1062.9779052734375
+        ],
+        "confidence": 0.9464627504348755,
+        "content": "In many communities, households are charged a fixed annual fee for trash disposal, which allows households to dispose of glass and other garbage at very low cost.",
+        "id": "944e16b6-f9e2-48c4-b0fa-2a935fe00801"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          125.11417388916016,
+          743.8421630859375,
+          2248.742919921875,
+          874.5316162109375
+        ],
+        "confidence": 0.9419755935668945,
+        "content": "The overutilization of virgin materials and the underutilization of recycled materials will result in a market failure.",
+        "id": "53e06550-7e36-401e-b8d1-d6430e0b047b"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          128.78298950195312,
+          88.92620849609375,
+          2157.623779296875,
+          356.00799560546875
+        ],
+        "confidence": 0.9331905841827393,
+        "content": "18.2 Ways of Correcting Market Failure (1 of 3)",
+        "id": "b57a1842-4c35-4329-9a31-313af3d45206"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          123.95240020751953,
+          439.3442077636719,
+          395.27252197265625,
+          510.69366455078125
+        ],
+        "confidence": 0.6315506100654602,
+        "content": "Recycling",
+        "id": "3ef14ef0-9135-419e-9152-57b572f13c21"
+      }
+    ]
+  },
+  {
+    "page_number": 19,
+    "elements": [
+      {
+        "type": "figure",
+        "bbox": [
+          302.10272216796875,
+          434.4248046875,
+          2195.9208984375,
+          1129.6483154296875
+        ],
+        "confidence": 0.9557213187217712,
+        "content": "{\n  \"type\": \"chart\",\n  \"chart_kind\": \"line\",\n  \"title\": null,\n  \"axes\": {\n    \"horizontal\": \"Scrap\",\n    \"vertical\": \"Cost (dollars)\"\n  },\n  \"series\": [\n    {\n      \"label\": \"MSC\",\n      \"color\": \"purple\",\n      \"style\": \"solid\"\n    },\n    {\n      \"label\": \"MCR\",\n      \"color\": \"cyan\",\n      \"style\": \"solid\"\n    },\n    {\n      \"label\": \"MC + per-unit refund\",\n      \"color\": \"red\",\n      \"style\": \"dashed\"\n    },\n    {\n      \"label\": \"MC\",\n      \"color\": \"red\",\n      \"style\": \"solid\"\n    }\n  ],\n  \"legend_items\": [\n    \"MSC\",\n    \"MCR\",\n    \"MC + per-unit refund\",\n    \"MC\"\n  ],\n  \"data_labels\": [\"4\", \"m*\", \"m1\", \"8\", \"12\"],\n  \"annotations\": []\n}",
+        "id": "99c7e004-5ecb-48f7-98f6-6b1750a2590c"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          126.10391235351562,
+          1359.159423828125,
+          2347.62353515625,
+          1494.168701171875
+        ],
+        "confidence": 0.9505417346954346,
+        "content": "The efficient amount of recycling of scrap material is the amount that equates the marginal social cost of scrap disposal, MSC, to the marginal cost of recycling, MCR.",
+        "id": "bcfc767f-d176-4084-b17e-464c99f7b348"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          123.19267272949219,
+          1521.6353759765625,
+          2272.394775390625,
+          1659.2208251953125
+        ],
+        "confidence": 0.9338760375976562,
+        "content": "The efficient amount of scrap for disposal m* is less than the amount that will arise in a private market, m1.",
+        "id": "ffbc3e2d-fc26-4c18-af2d-1f10a1b51ce9"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          123.21685028076172,
+          1271.707763671875,
+          1236.9564208984375,
+          1339.5419921875
+        ],
+        "confidence": 0.9087059497833252,
+        "content": "THE EFFICIENT AMOUNT OF RECYCLING",
+        "id": "133b28c2-69c4-45c3-ae0e-57dc3f0a7631"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          122.29666137695312,
+          1188.5189208984375,
+          498.28375244140625,
+          1255.2069091796875
+        ],
+        "confidence": 0.7705600261688232,
+        "content": "FIGURE 18.10",
+        "id": "e145f9a5-7506-4fa6-8935-cb26fe9521bc"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          125.74971008300781,
+          224.13150024414062,
+          2256.167236328125,
+          340.12481689453125
+        ],
+        "confidence": 0.7676199674606323,
+        "content": "18.2 Ways of Correcting Market Failure (2 of 3)",
+        "id": "8f2aa2fe-0586-4b61-bb84-0dcaffd3353f"
+      }
+    ]
+  },
+  {
+    "page_number": 20,
+    "elements": [
+      {
+        "type": "figure",
+        "bbox": [
+          1465.7301025390625,
+          484.4169006347656,
+          2342.04248046875,
+          1554.0947265625
+        ],
+        "confidence": 0.9348385334014893,
+        "content": "{\n  \"type\": \"chart\",\n  \"chart_kind\": \"other\",\n  \"title\": null,\n  \"axes\": {\n    \"horizontal\": \"Amount of glass\",\n    \"vertical\": \"$\"\n  },\n  \"series\": [\n    {\n      \"label\": \"S_r\",\n      \"color\": \"light blue\",\n      \"style\": \"solid\"\n    },\n    {\n      \"label\": \"S'_r\",\n      \"color\": \"light blue\",\n      \"style\": \"dotted\"\n    },\n    {\n      \"label\": \"S_v\",\n      \"color\": \"light blue\",\n      \"style\": \"solid\"\n    },\n    {\n      \"label\": \"S\",\n      \"color\": \"red\",\n      \"style\": \"solid\"\n    },\n    {\n      \"label\": \"S'\",\n      \"color\": \"red\",\n      \"style\": \"dotted\"\n    },\n    {\n      \"label\": \"D\",\n      \"color\": \"blue\",\n      \"style\": \"solid\"\n    }\n  ],\n  \"legend_items\": [\n    \"S_r\",\n    \"S'_r\",\n    \"S_v\",\n    \"S\",\n    \"S'\",\n    \"D\"\n  ],\n  \"data_labels\": [\n    \"P\",\n    \"P'\",\n    \"M_1\",\n    \"M*\"\n  ],\n  \"annotations\": []\n}",
+        "id": "4409b825-9dbe-4e37-9781-349fa6b8cb84"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          119.69983673095703,
+          1107.5665283203125,
+          1325.2420654296875,
+          1359.6890869140625
+        ],
+        "confidence": 0.9250134825706482,
+        "content": "By raising the relative cost of disposal and encouraging recycling, the refundable deposit increases the supply of recycled glass from Sr to S’r and the aggregate supply of glass from S to S’.",
+        "id": "8a2e650d-f220-436e-89ec-be4881ec77b7"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          120.94617462158203,
+          681.4727172851562,
+          1307.31884765625,
+          807.797607421875
+        ],
+        "confidence": 0.9126647114753723,
+        "content": "The supply of virgin glass containers is given by Sv and the supply of recycled glass by Sr.",
+        "id": "31cbec19-6b8d-439a-9b6f-6e36995cb963"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          119.93405151367188,
+          965.3187255859375,
+          1350.8045654296875,
+          1091.59326171875
+        ],
+        "confidence": 0.9093790650367737,
+        "content": "Initially, equilibrium in the market for glass containers involves a price P and a supply of recycled glass M1.",
+        "id": "cc0a5f4a-dbc8-4214-9b8b-2c5cd0c0d58b"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          119.86077117919922,
+          820.9258422851562,
+          1305.8084716796875,
+          944.6600341796875
+        ],
+        "confidence": 0.9051530361175537,
+        "content": "The market supply S is the horizontal sum of these two curves.",
+        "id": "4a9ad34e-78e4-4726-a9b0-92053183cae0"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          126.0158462524414,
+          224.84698486328125,
+          2259.294921875,
+          339.1422424316406
+        ],
+        "confidence": 0.9001805782318115,
+        "content": "18.2 Ways of Correcting Market Failure (3 of 3)",
+        "id": "493bebc9-e423-4e47-a4ca-335e2448d5b5"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          121.13020324707031,
+          1373.4398193359375,
+          1298.040283203125,
+          1562.732177734375
+        ],
+        "confidence": 0.8942030072212219,
+        "content": "The price of glass then falls to P’, the quantity of recycled glass increases to M*, and the amount of disposed glass decreases.",
+        "id": "6a611e27-9653-47ef-a2fb-c11a13ed016d"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          121.95252227783203,
+          597.4661865234375,
+          769.363525390625,
+          661.1582641601562
+        ],
+        "confidence": 0.414511114358902,
+        "content": "REFUNDABLE DEPOSITS",
+        "id": "86a283cf-c9e7-4e7c-8e65-10736945f17b"
+      }
+    ]
+  },
+  {
+    "page_number": 21,
+    "elements": [
+      {
+        "type": "plain text",
+        "bbox": [
+          121.32347106933594,
+          1041.0916748046875,
+          2308.36962890625,
+          1375.19140625
+        ],
+        "confidence": 0.9754434823989868,
+        "content": "A number of policy proposals have been introduced to encourage recycling in the United States. Refundable deposits, curbside charges and mandatory separation of recyclable materials such as glass are policies with varying degrees of effectiveness based on consumer preferences. A refundable deposit system does best, with 78.9 percent of consumers purchasing recyclable glass containers.",
+        "id": "f6372506-e39d-42b2-be23-12308da49222"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          122.13528442382812,
+          1425.7086181640625,
+          2370.3564453125,
+          1693.6695556640625
+        ],
+        "confidence": 0.9750716686248779,
+        "content": "Recycling efforts have expanded in the past decade. By 2009, 50.7 percent of aluminum, 74.2 percent of office paper, and 31.1 percent of glass containers were recycled. In 2013, Americans created 4.40 pounds of solid waste per person per day. 1.51 pounds of that total was either recycled or composted.",
+        "id": "f37a246b-6b06-427c-b935-a088ff38ed59"
+      },
+      {
+        "type": "figure",
+        "bbox": [
+          1575.3856201171875,
+          434.9789123535156,
+          2376.603271484375,
+          970.7999267578125
+        ],
+        "confidence": 0.9701957106590271,
+        "content": "{\n  \"type\": \"photo\",\n  \"objects\": [\"bulldozer\", \"garbage\", \"rubble\"],\n  \"setting\": \"landfill with a bulldozer on top of a large pile of waste\",\n  \"visible_actions\": [\"sitting\"],\n  \"colors\": [\"gray\", \"yellow\", \"brown\"],\n  \"text_in_image\": []\n}",
+        "id": "493edda0-7612-4496-8b06-f02310f547bb"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          123.08586883544922,
+          438.9595947265625,
+          1367.246337890625,
+          707.0708618164062
+        ],
+        "confidence": 0.9613896012306213,
+        "content": "In 2009, the average resident of the United States generated 4.34 pounds of solid waste per day, substantially higher than residents of Tokyo, Paris, Hong Kong, and Rome.",
+        "id": "f0644ea4-943a-47da-8907-511fad2dd67b"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          123.42036437988281,
+          760.027587890625,
+          1393.097412109375,
+          1027.2724609375
+        ],
+        "confidence": 0.9600911140441895,
+        "content": "Some of these differences are due to variations in consumption levels, but most are due to the efforts that many other countries have made to encourage recycling.",
+        "id": "b08e1318-183d-414f-a46f-180694fe15a2"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          120.9287338256836,
+          85.9385757446289,
+          2097.85986328125,
+          349.99639892578125
+        ],
+        "confidence": 0.9351116418838501,
+        "content": "EXAMPLE 18.4 REGULATING MUNICIPAL SOLID WASTES (1 of 2)",
+        "id": "2032ed0a-750c-4b75-839e-29542a6bde3c"
+      }
+    ]
+  },
+  {
+    "page_number": 22,
+    "elements": [
+      {
+        "type": "plain text",
+        "bbox": [
+          122.59245300292969,
+          1392.1644287109375,
+          2355.387451171875,
+          1594.9295654296875
+        ],
+        "confidence": 0.9666196703910828,
+        "content": "In 2013, Americans generated about 254 million tons of trash and recycled and composted about 87 million tons of this material, equivalent to a 34.3 percent average recycling rate. This represents 1.51 pounds of the 4.40 pounds of waste generated per person per day.",
+        "id": "51763f74-9188-4a33-ba22-dd9b89d96c94"
+      },
+      {
+        "type": "figure",
+        "bbox": [
+          680.8524169921875,
+          427.6649475097656,
+          1817.7125244140625,
+          1162.7276611328125
+        ],
+        "confidence": 0.954376757144928,
+        "content": "{\n  \"type\": \"chart\",\n  \"chart_kind\": \"bar\",\n  \"title\": null,\n  \"axes\": {\n    \"horizontal\": \"Products\",\n    \"vertical\": \"Recycling Rate (Percent)\"\n  },\n  \"series\": [\n    {\n      \"label\": null,\n      \"color\": \"orange\",\n      \"style\": \"solid\"\n    }\n  ],\n  \"legend_items\": [],\n  \"data_labels\": [\n    \"99.0\",\n    \"70.6\",\n    \"67.0\",\n    \"60.2\",\n    \"55.1\",\n    \"40.5\",\n    \"40.4\",\n    \"34.0\",\n    \"31.3\",\n    \"28.2\"\n  ],\n  \"annotations\": []\n}",
+        "id": "ed9585b8-a6ad-4c4f-b029-49d889cbeb73"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          121.42867279052734,
+          94.69720458984375,
+          2223.063232421875,
+          338.48052978515625
+        ],
+        "confidence": 0.8796798586845398,
+        "content": "EXAMPLE 18.4 REGULATING MUNICIPAL SOLID WASTES (2 of 2)",
+        "id": "ee2e1739-3cd4-4cd2-b897-72e254438caf"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          123.57384490966797,
+          1286.579345703125,
+          1801.9632568359375,
+          1358.2110595703125
+        ],
+        "confidence": 0.7007266879081726,
+        "content": "RECYCLING RATES OF SELECTED PRODUCTS FOR U.S., 2013",
+        "id": "16669ba4-0734-45e2-a4b3-b55d31fd0e56"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          123.54444885253906,
+          1188.3343505859375,
+          498.1181640625,
+          1255.3121337890625
+        ],
+        "confidence": 0.6110582947731018,
+        "content": "FIGURE 18.12",
+        "id": "b929afff-1508-4343-afb1-53db5c2fee72"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          605.9268188476562,
+          1288.605712890625,
+          1776.6812744140625,
+          1358.421142578125
+        ],
+        "confidence": 0.4857323169708252,
+        "content": "ES OF SELECTED PRODUCTS FOR U.S., 2013",
+        "id": "8f371e90-30dc-4cde-88e1-507833e8fe9b"
+      }
+    ]
+  },
+  {
+    "page_number": 23,
+    "elements": [
+      {
+        "type": "plain text",
+        "bbox": [
+          121.98075866699219,
+          1247.491455078125,
+          2370.135498046875,
+          1449.890380859375
+        ],
+        "confidence": 0.9737026691436768,
+        "content": "By calculating the investment’s net present value (NPV), the firm can decide whether or not the investment is economically justified. The same net present value concept applies when we want to analyze how the government should respond to a stock externality.",
+        "id": "61842d16-f14c-4972-a322-38b82cc6e727"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          123.78201293945312,
+          623.9463500976562,
+          2320.13525390625,
+          825.8168334960938
+        ],
+        "confidence": 0.9679394960403442,
+        "content": "A good example is global warming. It is the stock of accumulated greenhouse gases (GHGs) in the atmosphere that ultimately causes harm. Furthermore, the dissipation rate for accumulated GHGs is very low.",
+        "id": "185527c6-bfc8-4b55-8ef0-9eacbeef3de4"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          125.7410659790039,
+          877.97705078125,
+          2324.408935546875,
+          1009.843994140625
+        ],
+        "confidence": 0.9585438370704651,
+        "content": "stock externality Accumulated result of action by a producer or consumer which, though not accounted for in the market price, affects other producers or consumers.",
+        "id": "9e7f055f-2452-4e63-a86d-de0ae3142c90"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          124.17048645019531,
+          439.38653564453125,
+          2315.9580078125,
+          572.4269409179688
+        ],
+        "confidence": 0.9583430886268616,
+        "content": "Sometimes, the damage to society comes not directly from the emissions flow, but rather from the accumulated stock of a pollutant.",
+        "id": "3ca00eda-8a9e-4f22-8004-e978fb70e196"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          125.40489959716797,
+          1062.88671875,
+          2329.58984375,
+          1195.302978515625
+        ],
+        "confidence": 0.9516808390617371,
+        "content": "Stock externalities (like flow externalities) can also be positive. An example is the stock of “knowledge” that accumulates as a result of investments in R&D.",
+        "id": "b6f56df7-5d08-462c-a5dd-a2f4620d1417"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          129.11915588378906,
+          89.40864562988281,
+          2158.4599609375,
+          355.9564208984375
+        ],
+        "confidence": 0.9298279285430908,
+        "content": "18.2 Ways of Correcting Market Failure (1 of 2)",
+        "id": "0775a2f2-d191-471b-877e-aeba30a194b0"
+      }
+    ]
+  },
+  {
+    "page_number": 24,
+    "elements": [
+      {
+        "type": "plain text",
+        "bbox": [
+          120.83262634277344,
+          1012.8377075195312,
+          2307.741455078125,
+          1133.03125
+        ],
+        "confidence": 0.968946099281311,
+        "content": "—and so on. In general, the stock in any year t is given by the emissions generated that year plus the nondissipated stock from the previous year:",
+        "id": "d941cc4e-650e-4b62-980d-085ef17b9dbe"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          122.10965728759766,
+          499.0097351074219,
+          2341.26220703125,
+          616.9762573242188
+        ],
+        "confidence": 0.9617249369621277,
+        "content": "With ongoing emissions, the stock will accumulate, but some fraction of the stock, , will dissipate each year. In the first year, the stock of pollutant (S) will be just the amount of that year’s emissions (E):",
+        "id": "b406822a-679f-459a-aa10-bc9f7a88b480"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          121.79180908203125,
+          751.7772216796875,
+          2346.56005859375,
+          871.4213256835938
+        ],
+        "confidence": 0.9602150917053223,
+        "content": "In the second year, the stock of pollutant will equal the emissions that year plus the nondissipated stock from the first year—",
+        "id": "c8eff640-5197-4d75-9381-79acd62de29e"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          126.28495788574219,
+          225.84133911132812,
+          2257.704833984375,
+          338.6617431640625
+        ],
+        "confidence": 0.9391878247261047,
+        "content": "18.2 Ways of Correcting Market Failure (2 of 2)",
+        "id": "f6d6a549-05e9-409e-a359-41e1f0877ff6"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          120.0374984741211,
+          1554.56640625,
+          2273.006591796875,
+          1626.3321533203125
+        ],
+        "confidence": 0.9356617331504822,
+        "content": "As N becomes infinitely large, the stock will approach the long-run equilibrium level E/.",
+        "id": "29a829b1-7e27-4ca2-ab4a-4bff19405032"
+      },
+      {
+        "type": "isolate_formula",
+        "bbox": [
+          1073.953125,
+          1171.189453125,
+          1442.9791259765625,
+          1237.6563720703125
+        ],
+        "confidence": 0.9281798005104065,
+        "content": {
+          "type": "formula",
+          "latex": "S_t = E_t + (1 - \\delta) S_{t-1}",
+          "source": "ocr",
+          "confidence": 0.95,
+          "error": null
+        },
+        "id": "53ed28e8-e9a6-4ded-8f67-e8d0094f9015"
+      },
+      {
+        "type": "isolate_formula",
+        "bbox": [
+          819.1431274414062,
+          1415.91796875,
+          1681.11865234375,
+          1500.3460693359375
+        ],
+        "confidence": 0.9278638362884521,
+        "content": {
+          "type": "formula",
+          "latex": "S_N = E \\left[ 1 + (1 - \\delta) + (1 - \\delta)^2 + .. + (1 - \\delta)^{N-1} \\right]",
+          "source": "ocr",
+          "confidence": 0.95,
+          "error": null
+        },
+        "id": "77a21439-8d3e-47c9-a7b7-98a04dfd62ff"
+      },
+      {
+        "type": "isolate_formula",
+        "bbox": [
+          1073.3421630859375,
+          902.7831420898438,
+          1430.6099853515625,
+          968.4853515625
+        ],
+        "confidence": 0.9255175590515137,
+        "content": {
+          "type": "formula",
+          "latex": "S_2 = E_2 + (1 - \\delta) S_1",
+          "source": "ocr",
+          "confidence": 0.95,
+          "error": null
+        },
+        "id": "3b4caff9-cf3a-4443-bdd8-c8bad815c7d0"
+      },
+      {
+        "type": "isolate_formula",
+        "bbox": [
+          1178.0157470703125,
+          659.5078735351562,
+          1323.196044921875,
+          719.0577392578125
+        ],
+        "confidence": 0.9162321090698242,
+        "content": {
+          "type": "formula",
+          "latex": "S_1 = E_1",
+          "source": "ocr",
+          "confidence": 0.95,
+          "error": null
+        },
+        "id": "10b6d56a-f58b-40a5-8945-ab618ee501ca"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          120.98252868652344,
+          438.7683410644531,
+          800.6565551757812,
+          497.8086853027344
+        ],
+        "confidence": 0.9098067879676819,
+        "content": "Stock Buildup and Its Impact",
+        "id": "c789ab82-0235-4b81-ba38-3e553c307c71"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          919.162109375,
+          1301.600341796875,
+          2089.31201171875,
+          1364.4803466796875
+        ],
+        "confidence": 0.4858331084251404,
+        "content": "rate E, then after N years, the stock of pollutant will be",
+        "id": "bfae356f-5721-43e8-87ec-43bc9e800275"
+      }
+    ]
+  },
+  {
+    "page_number": 25,
+    "elements": [
+      {
+        "type": "table",
+        "bbox": [
+          203.19357299804688,
+          621.065673828125,
+          2195.96484375,
+          1088.5821533203125
+        ],
+        "confidence": 0.9734323620796204,
+        "content": {
+          "type": "table",
+          "rows": 6,
+          "columns": 6,
+          "data": [
+            [
+              "YEAR",
+              "E",
+              "S\nt",
+              "DAMAGE\n($ BILLION)",
+              "Cost of E = 0\n($ BILLION)",
+              "NET BENEFIT\n($ BILLION)"
+            ],
+            [
+              "2010",
+              "100",
+              "100",
+              "0.100",
+              "1.5",
+              "–1.400"
+            ],
+            [
+              "2011",
+              "100",
+              "198",
+              "0.198",
+              "—",
+              "–1 .302"
+            ],
+            [
+              "2012",
+              "100",
+              "296",
+              "0.296",
+              "50",
+              "–1 .204"
+            ],
+            [
+              "2110",
+              "100",
+              "4.337",
+              "4.337",
+              "20",
+              "2.837"
+            ],
+            [
+              "Blank Cell",
+              "100",
+              "5,000",
+              "5.000",
+              "1.5",
+              "3.500"
+            ]
+          ],
+          "markdown": "| YEAR | E | S\nt | DAMAGE\n($ BILLION) | Cost of E = 0\n($ BILLION) | NET BENEFIT\n($ BILLION) |\n| --- | --- | --- | --- | --- | --- |\n| 2010 | 100 | 100 | 0.100 | 1.5 | –1.400 |\n| 2011 | 100 | 198 | 0.198 | — | –1 .302 |\n| 2012 | 100 | 296 | 0.296 | 50 | –1 .204 |\n| 2110 | 100 | 4.337 | 4.337 | 20 | 2.837 |\n| Blank Cell | 100 | 5,000 | 5.000 | 1.5 | 3.500 |",
+          "source": "pdfplumber"
+        },
+        "id": "e93d2412-7493-4f70-907e-3f6081b09558"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          120.09650421142578,
+          1197.477783203125,
+          2374.597900390625,
+          1395.6998291015625
+        ],
+        "confidence": 0.964473307132721,
+        "content": "To determine whether a policy of zero emissions makes sense, we must calculate the NPV, or the present discounted value of the annual net benefits. Denoting the discount rate by R, the NPV is:",
+        "id": "e7d2298a-88b5-4e55-a76f-23b0840f67b5"
+      },
+      {
+        "type": "isolate_formula",
+        "bbox": [
+          658.479248046875,
+          1451.7406005859375,
+          1943.4637451171875,
+          1607.4744873046875
+        ],
+        "confidence": 0.9414873719215393,
+        "content": {
+          "type": "formula",
+          "latex": "NPV = \\frac{(-1.5 + .198)}{1 + R} + \\frac{(-1.5 + .296)}{(1 + R)^2} + \\ldots + \\frac{(-1.5 + 4.337)}{(1 + R)^{99}}",
+          "source": "ocr",
+          "confidence": 0.95,
+          "error": null
+        },
+        "id": "cdbe826c-a84d-4296-9a51-b46115d50a02"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          127.72381591796875,
+          217.91387939453125,
+          1705.7764892578125,
+          334.393798828125
+        ],
+        "confidence": 0.918121874332428,
+        "content": "18.3 Stock Externalities (1 of 3)",
+        "id": "7b31f6b7-f62a-409d-98a1-f3e4869ce13e"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          120.49690246582031,
+          369.1092834472656,
+          1301.35791015625,
+          522.443359375
+        ],
+        "confidence": 0.4920496344566345,
+        "content": "NUMERICAL EXAMPLE TABLE 18.1: BUILDUP IN THE STOCK POLLUTANT",
+        "id": "9ea39e8b-f32d-4582-989b-2d99d7f2ca62"
+      }
+    ]
+  },
+  {
+    "page_number": 26,
+    "elements": [
+      {
+        "type": "table",
+        "bbox": [
+          141.49412536621094,
+          551.0541381835938,
+          2170.00927734375,
+          1073.5943603515625
+        ],
+        "confidence": 0.9811033010482788,
+        "content": {
+          "type": "table",
+          "rows": 5,
+          "columns": 7,
+          "data": [
+            [
+              "Blank Cell",
+              "Blank Cell",
+              "Discount\nRate, R",
+              "Discount\nRate, R",
+              "Discount\nRate, R",
+              "Discount Rate,\nR",
+              "Discount Rate,\nR"
+            ],
+            [
+              "Blank Cell",
+              "Blank Cell",
+              ".01",
+              ".02",
+              ".04",
+              ".06",
+              ".08"
+            ],
+            [
+              "Dissipation\nRate, ",
+              ".01",
+              "108.81",
+              "54.07",
+              "12.20",
+              "–0.03",
+              "–4.08"
+            ],
+            [
+              "Dissipation\nRate, ",
+              ".02",
+              "65.93",
+              "31.20",
+              "4.49",
+              "–3.25",
+              "–5.69"
+            ],
+            [
+              "Dissipation\nRate, ",
+              ".04",
+              "15.48",
+              "3.26",
+              "–5.70",
+              "–7.82",
+              "–8.81"
+            ]
+          ],
+          "markdown": "| Blank Cell | Blank Cell | Discount\nRate, R | Discount\nRate, R | Discount\nRate, R | Discount Rate,\nR | Discount Rate,\nR |\n| --- | --- | --- | --- | --- | --- | --- |\n| Blank Cell | Blank Cell | .01 | .02 | .04 | .06 | .08 |\n| Dissipation\nRate,  | .01 | 108.81 | 54.07 | 12.20 | –0.03 | –4.08 |\n| Dissipation\nRate,  | .02 | 65.93 | 31.20 | 4.49 | –3.25 | –5.69 |\n| Dissipation\nRate,  | .04 | 15.48 | 3.26 | –5.70 | –7.82 | –8.81 |",
+          "source": "pdfplumber"
+        },
+        "id": "81d00097-9048-4c1a-a67f-66209ba2326d"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          122.95306396484375,
+          1408.874755859375,
+          2265.57763671875,
+          1678.5279541015625
+        ],
+        "confidence": 0.9781185984611511,
+        "content": "Table 18.2 also shows how the NPV of a “zero emissions” policy depends on the dissipation rate, . If is lower, the accumulated stock of pollutant will reach higher levels and cause more economic damage, so the future benefits of reducing emissions will be greater.",
+        "id": "2b78e817-734e-48da-91ae-c6792bf869cf"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          128.09738159179688,
+          228.393798828125,
+          1522.6583251953125,
+          332.085205078125
+        ],
+        "confidence": 0.9278361201286316,
+        "content": "18.3 Stock Externalities (2 of 3)",
+        "id": "8bcddbca-b995-4c43-bb2a-612cc1811a04"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          123.34466552734375,
+          369.1463317871094,
+          746.5386352539062,
+          435.4596252441406
+        ],
+        "confidence": 0.888456404209137,
+        "content": "NUMERICAL EXAMPLE",
+        "id": "1209c7e8-e023-4159-8010-42324a17ea6e"
+      },
+      {
+        "type": "table_caption",
+        "bbox": [
+          140.38414001464844,
+          480.56500244140625,
+          1288.2205810546875,
+          542.3361206054688
+        ],
+        "confidence": 0.8758661150932312,
+        "content": "<UNHANDLED_ELEMENT>",
+        "id": "b470872a-0fea-400a-8710-c812dae04ab8"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          140.53598022460938,
+          1091.2523193359375,
+          2119.0888671875,
+          1223.2491455078125
+        ],
+        "confidence": 0.7912123799324036,
+        "content": "Note: Entries in table are NPVs in $billions. Entries for = .02 correspond to net benefit numbers in Table 18.1.",
+        "id": "3ffa57a0-2d5e-416f-b27e-51e02b917fd1"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          410.8099670410156,
+          1291.7342529296875,
+          1581.20263671875,
+          1357.33544921875
+        ],
+        "confidence": 0.7454701662063599,
+        "content": "shows the NPV as a function of the discount rate",
+        "id": "99bd9d19-40ce-453b-9aa7-0f2f442d1151"
+      }
+    ]
+  },
+  {
+    "page_number": 27,
+    "elements": [
+      {
+        "type": "plain text",
+        "bbox": [
+          121.51017761230469,
+          941.3965454101562,
+          2345.909423828125,
+          1208.05517578125
+        ],
+        "confidence": 0.9778525829315186,
+        "content": "With rapid economic growth, future generations will have higher incomes than current generations, and if their marginal utility of income is decreasing (i.e., they are risk-averse), their utility from an extra dollar of income will be lower than the utility to someone living today; that’s why future benefits provide less utility and should thus be discounted.",
+        "id": "583e2c1a-b1b5-4f39-a085-ac2c95976bcd"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          123.69976043701172,
+          688.3924560546875,
+          2307.57177734375,
+          887.412353515625
+        ],
+        "confidence": 0.9711087346076965,
+        "content": "In principle, the social rate of discount depends on three factors: (1) the expected rate of real economic growth; (2) the extent of risk aversion for society as a whole; and (3) the “rate of pure time preference” for society as a whole.",
+        "id": "f3ed067c-bcb4-4927-babd-f9f2141f3deb"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          122.56592559814453,
+          1259.320068359375,
+          2324.6484375,
+          1458.7530517578125
+        ],
+        "confidence": 0.9700413346290588,
+        "content": "Without economic growth, people may simply prefer to receive a benefit today than in the future (the rate of pure time preference). For problems involving long time horizons, the policy debate often boils down to a debate over the correct discount rate.",
+        "id": "e58f8474-49da-4051-9ed4-5160a620a246"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          124.41456604003906,
+          504.0010070800781,
+          2308.07666015625,
+          635.6301879882812
+        ],
+        "confidence": 0.9535917043685913,
+        "content": "social rate of discount Opportunity cost to society as a whole of receiving an economic benefit in the future rather than the present.",
+        "id": "228b19b0-58c7-4575-824e-8aea74c326af"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          127.66734313964844,
+          227.58349609375,
+          1522.9774169921875,
+          330.0151062011719
+        ],
+        "confidence": 0.9295233488082886,
+        "content": "18.3 Stock Externalities (3 of 3)",
+        "id": "3d006fd3-6b40-44b8-858e-a7ab2d439fab"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          122.54164123535156,
+          384.06549072265625,
+          1088.178466796875,
+          450.2177734375
+        ],
+        "confidence": 0.731081485748291,
+        "content": "What discount rate should be used?",
+        "id": "1197a25b-60e7-464f-a5c1-ef786b430d8a"
+      }
+    ]
+  },
+  {
+    "page_number": 28,
+    "elements": [
+      {
+        "type": "plain text",
+        "bbox": [
+          121.89955139160156,
+          783.071533203125,
+          1516.678955078125,
+          1076.3238525390625
+        ],
+        "confidence": 0.9770634770393372,
+        "content": "GHG emissions could be reduced from their current levels— governments, for example, could impose stiff taxes on the use of gasoline and other fossil fuels—but this solution would be costly. The problem is that the costs occur today, but the benefits would be realized only in some 50 or more years.",
+        "id": "d94c3cfc-57ab-492e-84c9-c1f5458747a0"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          120.77808380126953,
+          1134.8701171875,
+          2363.30029296875,
+          1431.09619140625
+        ],
+        "confidence": 0.9732023477554321,
+        "content": "Is the present discounted value of the likely benefits of such policies simply too small? Although there is considerable uncertainty over the economic impact of higher temperatures, the consensus view is that the impact could be significant, so that there would be a future benefit from reducing emissions today. The cost of reducing emissions (or preventing them from growing above current levels) can be assessed as well, although here too there is uncertainty over the numbers.",
+        "id": "9d949575-e239-45d6-af1b-37d5e49b9771"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          120.58795166015625,
+          437.827880859375,
+          1525.8004150390625,
+          730.3955078125
+        ],
+        "confidence": 0.9723462462425232,
+        "content": "Emissions of carbon dioxide and other greenhouse gases have increased dramatically over the past century as economic growth has been accompanied by the greater use of fossil fuels, which has in turnled to an increase in atmospheric concentrations of GHGs.",
+        "id": "8988a056-c654-4dcb-bf3d-e349c3f0be51"
+      },
+      {
+        "type": "figure",
+        "bbox": [
+          1575.4395751953125,
+          437.1156005859375,
+          2375.45166015625,
+          967.4325561523438
+        ],
+        "confidence": 0.969788670539856,
+        "content": "{\n  \"type\": \"photo\",\n  \"objects\": [\"polar bear\", \"ice\", \"water\", \"clouds\"],\n  \"setting\": \"Polar bear standing on ice floating on water with cloudy sky\",\n  \"visible_actions\": [\"standing\"],\n  \"colors\": [\"white\", \"blue\", \"gray\"],\n  \"text_in_image\": []\n}",
+        "id": "34f71392-59b8-4f4e-b7d2-c35010480f74"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          124.31517791748047,
+          1480.3643798828125,
+          2354.171875,
+          1598.6361083984375
+        ],
+        "confidence": 0.9603028893470764,
+        "content": "Whether a policy to restrict GHG emissions makes economic sense clearly depends on the rate used to discount future costs and benefits.",
+        "id": "402e329c-cd8a-4a8d-9c35-c71c0f2cd0a4"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          120.6465072631836,
+          85.59938049316406,
+          2123.9326171875,
+          356.3679504394531
+        ],
+        "confidence": 0.919795036315918,
+        "content": "EXAMPLE 18.4 GLOBAL WARMING (1 of 2)",
+        "id": "603b7ff8-df10-46e4-b3b3-e3af4c706043"
+      }
+    ]
+  },
+  {
+    "page_number": 29,
+    "elements": [
+      {
+        "type": "table",
+        "bbox": [
+          145.15682983398438,
+          472.23065185546875,
+          2306.41796875,
+          1317.6224365234375
+        ],
+        "confidence": 0.9807023406028748,
+        "content": {
+          "type": "table",
+          "rows": 13,
+          "columns": 11,
+          "data": [
+            [
+              "Blank\nCell",
+              "“BUSINESS\nAS USUAL”",
+              "“BUSINESS\nAS USUAL”",
+              "“BUSINESS\nAS USUAL”",
+              "“BUSINESS\nAS USUAL”",
+              "EMISSIONS\nREDUCED BY\n1% PER\nYEAR",
+              "EMISSIONS\nREDUCED\nBY 1% PER\nYEAR",
+              "EMISSIONS\nREDUCED\nBY 1% PER\nYEAR",
+              "EMISSIONS\nREDUCED\nBY 1% PER\nYEAR",
+              "EMISSIONS\nREDUCED BY\n1% PER\nYEAR",
+              "EMISSIONS\nREDUCED BY\n1% PER\nYEAR"
+            ],
+            [
+              "YEAR",
+              "E\nt",
+              "S\nt",
+              "∆T\nt",
+              "DAMAGE",
+              "E\nt",
+              "S\nt",
+              "∆T\nt",
+              "DAMAGE",
+              "COST",
+              "NET\nBENEFIT"
+            ],
+            [
+              "2010",
+              "55",
+              "460",
+              "0°",
+              "0",
+              "45",
+              "460",
+              "0°",
+              "0",
+              "0.82",
+              "–0.82"
+            ],
+            [
+              "2020",
+              "62",
+              "490",
+              "0.4°",
+              "0. 63",
+              "41",
+              "485",
+              "0.5°",
+              "0.63",
+              "1.05",
+              "–1.05"
+            ],
+            [
+              "2030",
+              "73",
+              "520",
+              "0.8°",
+              "1.61",
+              "37",
+              "510",
+              "1°",
+              "1.61",
+              "1.34",
+              "–1.34"
+            ],
+            [
+              "2040",
+              "85",
+              "550",
+              "1.2°",
+              "3.08",
+              "33",
+              "530",
+              "1.4°",
+              "3.08",
+              "1.71",
+              "–1.71"
+            ],
+            [
+              "2050",
+              "90",
+              "580",
+              "1.6°",
+              "5.26",
+              "30",
+              "550",
+              "2°",
+              "5.26",
+              "2.19",
+              "–2.19"
+            ],
+            [
+              "2060",
+              "95",
+              "610",
+              "2°",
+              "8.42",
+              "27",
+              "550",
+              "2°",
+              "8.42",
+              "2.81",
+              "–2.81"
+            ],
+            [
+              "2070",
+              "100",
+              "640",
+              "2.4°",
+              "12.94",
+              "25",
+              "550",
+              "2°",
+              "10.78",
+              "3.59",
+              "–1.44"
+            ],
+            [
+              "2080",
+              "105",
+              "670",
+              "2.8°",
+              "19.32",
+              "22",
+              "550",
+              "2°",
+              "13.80",
+              "4.60",
+              "0.92"
+            ],
+            [
+              "2090",
+              "110",
+              "700",
+              "3.2°",
+              "28.27",
+              "20",
+              "550",
+              "2°",
+              "17.67",
+              "5.89",
+              "4.71"
+            ],
+            [
+              "2100",
+              "115",
+              "730",
+              "3.6°",
+              "40.71",
+              "18",
+              "550",
+              "2°",
+              "22.61",
+              "7.54",
+              "10.55"
+            ],
+            [
+              "2110",
+              "120",
+              "760",
+              "4°",
+              "57.90",
+              "16",
+              "550",
+              "2°",
+              "28.95",
+              "9.65",
+              "19.30"
+            ]
+          ],
+          "markdown": "| Blank\nCell | “BUSINESS\nAS USUAL” | “BUSINESS\nAS USUAL” | “BUSINESS\nAS USUAL” | “BUSINESS\nAS USUAL” | EMISSIONS\nREDUCED BY\n1% PER\nYEAR | EMISSIONS\nREDUCED\nBY 1% PER\nYEAR | EMISSIONS\nREDUCED\nBY 1% PER\nYEAR | EMISSIONS\nREDUCED\nBY 1% PER\nYEAR | EMISSIONS\nREDUCED BY\n1% PER\nYEAR | EMISSIONS\nREDUCED BY\n1% PER\nYEAR |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| YEAR | E\nt | S\nt | ∆T\nt | DAMAGE | E\nt | S\nt | ∆T\nt | DAMAGE | COST | NET\nBENEFIT |\n| 2010 | 55 | 460 | 0° | 0 | 45 | 460 | 0° | 0 | 0.82 | –0.82 |\n| 2020 | 62 | 490 | 0.4° | 0. 63 | 41 | 485 | 0.5° | 0.63 | 1.05 | –1.05 |\n| 2030 | 73 | 520 | 0.8° | 1.61 | 37 | 510 | 1° | 1.61 | 1.34 | –1.34 |\n| 2040 | 85 | 550 | 1.2° | 3.08 | 33 | 530 | 1.4° | 3.08 | 1.71 | –1.71 |\n| 2050 | 90 | 580 | 1.6° | 5.26 | 30 | 550 | 2° | 5.26 | 2.19 | –2.19 |\n| 2060 | 95 | 610 | 2° | 8.42 | 27 | 550 | 2° | 8.42 | 2.81 | –2.81 |\n| 2070 | 100 | 640 | 2.4° | 12.94 | 25 | 550 | 2° | 10.78 | 3.59 | –1.44 |\n| 2080 | 105 | 670 | 2.8° | 19.32 | 22 | 550 | 2° | 13.80 | 4.60 | 0.92 |\n| 2090 | 110 | 700 | 3.2° | 28.27 | 20 | 550 | 2° | 17.67 | 5.89 | 4.71 |\n| 2100 | 115 | 730 | 3.6° | 40.71 | 18 | 550 | 2° | 22.61 | 7.54 | 10.55 |\n| 2110 | 120 | 760 | 4° | 57.90 | 16 | 550 | 2° | 28.95 | 9.65 | 19.30 |",
+          "source": "pdfplumber"
+        },
+        "id": "8e69f17d-b5e3-402a-988a-4915e892bccf"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          123.08553314208984,
+          1521.7109375,
+          2349.56591796875,
+          1675.191162109375
+        ],
+        "confidence": 0.9684777855873108,
+        "content": "Emissions is estimated to be 1% of GDP each year. World GDP is projected to grow at 2.5% in real terms from a level of $65 trillion in 2016. Damage from warming is estimated to be 1.5% of GDP per year for every 1°C of temperature increase. Under BAU, temperature is predicted to rise by 0.04° per year.",
+        "id": "a8efcda5-6b4b-493c-bf9f-32a80ad3afaf"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          126.29136657714844,
+          224.68646240234375,
+          2230.909912109375,
+          327.7150573730469
+        ],
+        "confidence": 0.8773926496505737,
+        "content": "EXAMPLE 18.4 GLOBAL WARMING (2 of 2)",
+        "id": "ca10201e-bbb0-461d-80d9-1ce6254d2830"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          125.98738098144531,
+          1321.9617919921875,
+          2366.912841796875,
+          1473.0198974609375
+        ],
+        "confidence": 0.6516047120094299,
+        "content": "Notes: Et is measured in gigatonnes (billions of metric tons) of CO2 equivalent (CO2e), St is measured in parts per million (ppm) of atmospheric CO2e, the change in temperature Tt is measured in degrees Celsius, and costs, damages, and net benefits are measured in trillions of 2007 dollars. Cost of reducing",
+        "id": "3891b5c9-74a8-4dca-8f95-fa122538302f"
+      },
+      {
+        "type": "table_footnote",
+        "bbox": [
+          125.98738098144531,
+          1321.9617919921875,
+          2366.912841796875,
+          1473.0198974609375
+        ],
+        "confidence": 0.5422979593276978,
+        "content": "<UNHANDLED_ELEMENT>",
+        "id": "5c54b2d2-34a9-4b84-9998-9a9a8c8c23af"
+      }
+    ]
+  },
+  {
+    "page_number": 30,
+    "elements": [
+      {
+        "type": "plain text",
+        "bbox": [
+          122.0528793334961,
+          598.1050415039062,
+          2348.369384765625,
+          933.0840454101562
+        ],
+        "confidence": 0.9765720963478088,
+        "content": "To see why property rights are important, let’s return to our example of the firm that dumps effluent into the river. We assumed both that it had a property right to use the river to dispose of its waste and that the fishermen did not have a property right to “effluent-free” water. As a result, the firm had no incentive to include the cost of effluent in its production calculations. In other words, the firm externalized the costs generated by the effluent.",
+        "id": "cc86ac46-33ff-4e97-a966-5788317d0f1b"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          121.69212341308594,
+          984.095947265625,
+          2359.8671875,
+          1251.1480712890625
+        ],
+        "confidence": 0.9750227332115173,
+        "content": "But suppose that the fishermen had a property right to clean water. In that case, they could demand that the firm pay them for the right to dump effluent. The firm would either cease production or pay the costs associated with the effluent. These costs would be internalized and an efficient allocation of resources achieved.",
+        "id": "9894abc7-d01b-4ff8-ae52-3a83bcbd59ac"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          123.30725860595703,
+          480.8897705078125,
+          2169.67822265625,
+          549.3525390625
+        ],
+        "confidence": 0.9287405014038086,
+        "content": "property rights Legal rules stating what people or firms may do with their property.",
+        "id": "bfa426c7-571b-4693-880f-1b34bbf8153e"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          126.85165405273438,
+          90.32868194580078,
+          2073.446044921875,
+          352.91021728515625
+        ],
+        "confidence": 0.915226399898529,
+        "content": "18.4 Externalities and Property Rights (1 of 7)",
+        "id": "b818207c-6b36-455c-b369-16a146ec2f6b"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          124.58734893798828,
+          370.5658264160156,
+          549.432373046875,
+          437.7527770996094
+        ],
+        "confidence": 0.8703835010528564,
+        "content": "Property Rights",
+        "id": "cbfaa0c4-0824-49ca-95d2-6a721c43b4c5"
+      }
+    ]
+  },
+  {
+    "page_number": 31,
+    "elements": [
+      {
+        "type": "table",
+        "bbox": [
+          308.7352294921875,
+          777.262451171875,
+          2088.83984375,
+          1214.442626953125
+        ],
+        "confidence": 0.9822341799736023,
+        "content": {
+          "type": "table",
+          "rows": 5,
+          "columns": 4,
+          "data": [
+            [
+              "Blank Cell",
+              "FACTORY’S PROFIT\n($)",
+              "FISHERMEN’S\nPROFIT\n($)",
+              "TOTAL\nPROFIT\n($)"
+            ],
+            [
+              "No filter, no treatment plant",
+              "500",
+              "100",
+              "600"
+            ],
+            [
+              "Filter, no treatment plant",
+              "300",
+              "500",
+              "800"
+            ],
+            [
+              "No filter, treatment plant",
+              "500",
+              "200",
+              "700"
+            ],
+            [
+              "Filter,treatment plant",
+              "300",
+              "300",
+              "600"
+            ]
+          ],
+          "markdown": "| Blank Cell | FACTORY’S PROFIT\n($) | FISHERMEN’S\nPROFIT\n($) | TOTAL\nPROFIT\n($) |\n| --- | --- | --- | --- |\n| No filter, no treatment plant | 500 | 100 | 600 |\n| Filter, no treatment plant | 300 | 500 | 800 |\n| No filter, treatment plant | 500 | 200 | 700 |\n| Filter,treatment plant | 300 | 300 | 600 |",
+          "source": "pdfplumber"
+        },
+        "id": "63d764fe-b953-4dca-8238-bed5669238cc"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          122.06167602539062,
+          1285.637939453125,
+          2239.0390625,
+          1485.743896484375
+        ],
+        "confidence": 0.9735494256019592,
+        "content": "As Table 18.4 shows, the factory can install a filter system to reduce its effluent, or the fishermen can pay for the installation of a water treatment plant. The efficient solution maximizes the joint profit of the factory and the fishermen.",
+        "id": "6982d711-f8f6-4799-a8da-ae03065621fe"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          123.95442199707031,
+          490.5469055175781,
+          2350.7958984375,
+          626.6949462890625
+        ],
+        "confidence": 0.9647921323776245,
+        "content": "Economic efficiency can be achieved without government intervention when the externality affects relatively few parties and when property rights are well specified.",
+        "id": "a86db94c-231b-4c3f-8b8f-ac603f98ebe1"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          121.3358383178711,
+          1536.4962158203125,
+          2222.4560546875,
+          1671.9041748046875
+        ],
+        "confidence": 0.9588224291801453,
+        "content": "Maximization occurs when the factory installs a filter and the fishermen do not build a treatment plant.",
+        "id": "c17f3c68-5458-431b-8bef-76212ec85b54"
+      },
+      {
+        "type": "table_caption",
+        "bbox": [
+          310.4783630371094,
+          707.2459106445312,
+          2069.17626953125,
+          770.2915649414062
+        ],
+        "confidence": 0.9530880451202393,
+        "content": "<UNHANDLED_ELEMENT>",
+        "id": "d036e360-cf7b-446d-acdf-ddd320f685b8"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          127.3763198852539,
+          227.42160034179688,
+          2179.668212890625,
+          335.3980407714844
+        ],
+        "confidence": 0.9245535135269165,
+        "content": "18.4 Externalities and Property Rights (2 of 7)",
+        "id": "8e86c1d5-861a-4ca7-9f5c-e18adcb47a0a"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          124.22911834716797,
+          370.451171875,
+          1095.0430908203125,
+          442.0018005371094
+        ],
+        "confidence": 0.8600321412086487,
+        "content": "Bargaining and Economic Efficiency",
+        "id": "0e5ccc4a-d4b7-4c46-b070-c507d4e26908"
+      }
+    ]
+  },
+  {
+    "page_number": 32,
+    "elements": [
+      {
+        "type": "plain text",
+        "bbox": [
+          122.33883666992188,
+          1278.104248046875,
+          2336.1240234375,
+          1513.517578125
+        ],
+        "confidence": 0.9790835976600647,
+        "content": "If the fishermen are given the property right to clean water, which requires the factory to install the filter. The factory earns a profit of $300 and the fishermen $500. Because neither party can be made better off by bargaining, having the factory install the filter is efficient. This analysis applies to all situations in which property rights are well specified.",
+        "id": "0568da13-249a-40b3-9d29-2be79a202a24"
+      },
+      {
+        "type": "table",
+        "bbox": [
+          180.12374877929688,
+          528.1404418945312,
+          1965.6787109375,
+          1022.4851684570312
+        ],
+        "confidence": 0.9738956093788147,
+        "content": {
+          "type": "table",
+          "rows": 6,
+          "columns": 3,
+          "data": [
+            [
+              "NO COOPERATION",
+              "RIGHT TO DUMP ($)",
+              "RIGHT TO CLEAN WATER ($)"
+            ],
+            [
+              "Profitof factory",
+              "500",
+              "300"
+            ],
+            [
+              "Profit of fishermen",
+              "200",
+              "500"
+            ],
+            [
+              "COOPERATION",
+              "RIGHT TO DUMP ($)",
+              "RIGHT TO CLEAN WATER ($)"
+            ],
+            [
+              "Profitof factory",
+              "Blank Cell",
+              "Blank Cell"
+            ],
+            [
+              "Profit of fishermen",
+              "250",
+              "500"
+            ]
+          ],
+          "markdown": "| NO COOPERATION | RIGHT TO DUMP ($) | RIGHT TO CLEAN WATER ($) |\n| --- | --- | --- |\n| Profitof factory | 500 | 300 |\n| Profit of fishermen | 200 | 500 |\n| COOPERATION | RIGHT TO DUMP ($) | RIGHT TO CLEAN WATER ($) |\n| Profitof factory | Blank Cell | Blank Cell |\n| Profit of fishermen | 250 | 500 |",
+          "source": "pdfplumber"
+        },
+        "id": "bc009bda-c156-489b-97dc-83c3843ade28"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          122.52256774902344,
+          1563.880126953125,
+          2350.34716796875,
+          1683.9871826171875
+        ],
+        "confidence": 0.9659057855606079,
+        "content": "Coase theorem Principle that when parties can bargain without cost and to their mutual advantage, the resulting outcome will be efficient regardless of how property rights are specified.",
+        "id": "533ce6cc-d4d2-4d8d-af82-ebd562c6c823"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          127.32923126220703,
+          228.1326904296875,
+          2179.142822265625,
+          336.698974609375
+        ],
+        "confidence": 0.9021822810173035,
+        "content": "18.4 Externalities and Property Rights (3 of 7)",
+        "id": "28318af4-78c4-4cde-a0e2-6278933f7886"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          124.79901885986328,
+          1109.0556640625,
+          2276.843505859375,
+          1226.814697265625
+        ],
+        "confidence": 0.8567656874656677,
+        "content": "Without cooperation, the fishermen earn a profit of $200 and the factory $500. With cooperation, the profit of both increases by $50.",
+        "id": "9378de20-9181-4279-8937-a252553cfec9"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          126.86968231201172,
+          368.97589111328125,
+          1704.216064453125,
+          433.90478515625
+        ],
+        "confidence": 0.5902937650680542,
+        "content": "TABLE 18.5: BARGAINING WITH ALTERNATIVE PROPERTY RIGHTS",
+        "id": "bd39eac9-b6b1-4b77-9b71-29a2370077d5"
+      }
+    ]
+  },
+  {
+    "page_number": 33,
+    "elements": [
+      {
+        "type": "plain text",
+        "bbox": [
+          120.73949432373047,
+          1329.699462890625,
+          2367.616455078125,
+          1596.7611083984375
+        ],
+        "confidence": 0.9796267747879028,
+        "content": "Another problem arises when many parties are involved. Suppose, for example, that the emissions from a factory are adversely affecting hundreds or thousands of households who live downstream. In that case, the costs of bargaining will make it very difficult for the parties to reach a settlement.",
+        "id": "7b4ffadc-6780-4cb6-90d1-de9b6e910bb0"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          121.80224609375,
+          557.6780395507812,
+          2302.364990234375,
+          958.6434326171875
+        ],
+        "confidence": 0.9792149066925049,
+        "content": "Bargaining can be time-consuming and costly, especially when property rights are not clearly specified. In that case, neither party is sure how hard to bargain before the other party will agree to a settlement. In our example, both parties knew that the bargaining process had to settle on a payment between $200 and $300. If the parties are unsure of the property rights, however, the fishermen might be willing to pay only $100, and the bargaining process would break down.",
+        "id": "de59b62c-06f7-42f8-99d2-ecd9a4194521"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          122.32870483398438,
+          1011.37255859375,
+          2343.726806640625,
+          1276.2713623046875
+        ],
+        "confidence": 0.976030707359314,
+        "content": "Bargaining can break down even when communication and monitoring are costless if both parties believe they can obtain larger gains. For example, one party might demand a large share and refuse to bargain, assuming incorrectly that the other party will eventually concede.",
+        "id": "0a5e9161-21b6-4db0-bb46-db5b2d5f43cf"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          128.83067321777344,
+          226.28140258789062,
+          2179.824951171875,
+          336.60870361328125
+        ],
+        "confidence": 0.9294282793998718,
+        "content": "18.4 Externalities and Property Rights (4 of 7)",
+        "id": "473a3ed1-0f01-4ff7-81f4-6383d9683263"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          122.80762481689453,
+          436.8299255371094,
+          1472.6099853515625,
+          509.9913635253906
+        ],
+        "confidence": 0.7372075319290161,
+        "content": "Costly Bargaining—The Role of Strategic Behavior",
+        "id": "84eb4dff-a68e-4e28-938e-62c3d19320ff"
+      }
+    ]
+  },
+  {
+    "page_number": 34,
+    "elements": [
+      {
+        "type": "plain text",
+        "bbox": [
+          120.7819595336914,
+          556.6644897460938,
+          2327.447998046875,
+          961.6246948242188
+        ],
+        "confidence": 0.975560188293457,
+        "content": "To see how the potential for a lawsuit can lead to an efficient outcome, let’s reexamine our fishermen–factory example. Suppose first that the fishermen are given the right to clean water. The factory, in other words, is responsible for harm to the fishermen if it does not install a filter. The harm to the fishermen in this case is $400: the difference between the profit that the fishermen make when there is no effluent ($500) and their profit when there is effluent ($100).",
+        "id": "b37cb485-83aa-4be4-8ba1-8b0866f38ee2"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          128.4240264892578,
+          226.03515625,
+          2181.0029296875,
+          336.5347595214844
+        ],
+        "confidence": 0.9276244640350342,
+        "content": "18.4 Externalities and Property Rights (5 of 7)",
+        "id": "68baafc3-3a0f-4872-9bca-f110e4be3d88"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          124.59307861328125,
+          1011.9745483398438,
+          1046.8189697265625,
+          1078.139404296875
+        ],
+        "confidence": 0.9150826930999756,
+        "content": "The factory has the following options:",
+        "id": "8ed32c03-6873-4ff6-8f18-5da72ab43a02"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          128.2686004638672,
+          1120.5699462890625,
+          1698.6778564453125,
+          1191.2713623046875
+        ],
+        "confidence": 0.8970287442207336,
+        "content": "1. Do not install filter, pay damages: Profit = $100 ($500 - $400)",
+        "id": "7976e535-b3f7-4c6c-97ad-51755af58b64"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          123.59466552734375,
+          437.6239013671875,
+          1130.1270751953125,
+          509.64263916015625
+        ],
+        "confidence": 0.8869279623031616,
+        "content": "A Legal Solution—Suing for Damages",
+        "id": "a67b4f30-8678-445e-a286-b1357c7b8f34"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          123.69782257080078,
+          1255.3951416015625,
+          1568.0274658203125,
+          1323.50244140625
+        ],
+        "confidence": 0.8773335218429565,
+        "content": "2. Install filter, avoid damages: Profit = $300 ($500 - $200)",
+        "id": "2c7690b3-68dd-4c86-9d43-65c2e9fb4657"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          123.33184814453125,
+          1401.9334716796875,
+          2284.979248046875,
+          1534.7999267578125
+        ],
+        "confidence": 0.8395127654075623,
+        "content": "The factory will find it advantageous to install a filter, which is substantially cheaper than paying damages, and the efficient outcome will be achieved.",
+        "id": "4f52022a-ded9-459f-a359-4dad76cf4b7f"
+      }
+    ]
+  },
+  {
+    "page_number": 35,
+    "elements": [
+      {
+        "type": "plain text",
+        "bbox": [
+          119.70996856689453,
+          435.6204833984375,
+          2376.788818359375,
+          709.0819091796875
+        ],
+        "confidence": 0.9668864011764526,
+        "content": "An efficient outcome (with a different division of profits) will also be achieved if the factory is given the property right to emit effluent. Under the law, the fishermen would have the legal right to require the factory to install the filter, but they would have to pay the factory for its $200 lost profit (not for the cost of the filter).",
+        "id": "40b8c699-8289-4303-be88-2eb731345e6a"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          127.21538543701172,
+          226.2918701171875,
+          2180.989990234375,
+          337.0857238769531
+        ],
+        "confidence": 0.917911946773529,
+        "content": "18.4 Externalities and Property Rights (6 of 7)",
+        "id": "807d5f52-dd74-4fae-bb8c-c9f1abf65489"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          124.2500228881836,
+          760.277099609375,
+          1232.546875,
+          825.2947387695312
+        ],
+        "confidence": 0.8494559526443481,
+        "content": "This leaves the fishermen with three options:",
+        "id": "4b58c55d-9c7a-4bf4-b0e8-305c178f5e29"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          125.09852600097656,
+          842.673828125,
+          1307.7308349609375,
+          910.9904174804688
+        ],
+        "confidence": 0.6765057444572449,
+        "content": "1. Put in a treatment plant: Profit = $200",
+        "id": "32105a1f-69ea-410d-ab37-2aee50ebf1da"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          117.25619506835938,
+          1229.9254150390625,
+          1314.828125,
+          1363.40234375
+        ],
+        "confidence": 0.6714069247245789,
+        "content": "3. Do not put in treatment plant or require a filter: Profit = $100",
+        "id": "05d607d8-2997-4877-b0db-d6177688c36c"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          120.46710205078125,
+          1012.3851928710938,
+          828.6533203125,
+          1147.120361328125
+        ],
+        "confidence": 0.5983406901359558,
+        "content": "2. Have factory put in a filter but pay damages:",
+        "id": "63807eaa-6444-40b6-87ee-d5a37682de02"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          118.66301727294922,
+          1011.5023193359375,
+          1663.87744140625,
+          1148.210693359375
+        ],
+        "confidence": 0.5661172866821289,
+        "content": "2. Have factory put in a filter but pay damages: Profit = $300 ($500 - $200)",
+        "id": "239ec92a-b521-46aa-b6b7-c066a9610ffc"
+      }
+    ]
+  },
+  {
+    "page_number": 36,
+    "elements": [
+      {
+        "type": "plain text",
+        "bbox": [
+          120.83709716796875,
+          689.6347045898438,
+          2281.310546875,
+          1028.8134765625
+        ],
+        "confidence": 0.9771609306335449,
+        "content": "Note, however, that the $300 profit is substantially less than the $500 profit that the fishermen get when they have a right to clean water. This example shows that a suit for damages eliminates the need for bargaining because it specifies the consequences of the parties’ choices. (When information is imperfect, however, suing for damages may lead to inefficient outcomes.)",
+        "id": "f2ed160b-fc8c-4e50-aec7-4ff5cb8dfb36"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          123.05915832519531,
+          437.59600830078125,
+          2355.51708984375,
+          637.6798095703125
+        ],
+        "confidence": 0.9695871472358704,
+        "content": "The fishermen earn the highest profit if they take the second option. Just as in the situation in which the fishermen had the right to clean water, this outcome is efficient because the filter has been installed.",
+        "id": "7711d75e-2d8c-4710-b59f-99c9e33c5cf0"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          123.08329772949219,
+          1076.9117431640625,
+          2295.29052734375,
+          1210.501953125
+        ],
+        "confidence": 0.9666218161582947,
+        "content": "This example shows that a suit for damages eliminates the need for bargaining because it specifies the consequences of the parties’ choices.",
+        "id": "bd587aef-ceec-4122-a7d7-03fb40271046"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          128.65245056152344,
+          226.42076110839844,
+          2180.354736328125,
+          335.91912841796875
+        ],
+        "confidence": 0.9309247136116028,
+        "content": "18.4 Externalities and Property Rights (7 of 7)",
+        "id": "f8da6a81-4c31-4912-9e03-11192aa26292"
+      }
+    ]
+  },
+  {
+    "page_number": 37,
+    "elements": [
+      {
+        "type": "plain text",
+        "bbox": [
+          121.33777618408203,
+          438.30670166015625,
+          2322.095458984375,
+          773.7120971679688
+        ],
+        "confidence": 0.9783837199211121,
+        "content": "As a September 1987 cooperative agreement between New York City and New Jersey illustrates, the Coase theorem applies to governments as well as to people and organizations. For many years, garbage spilling from waterfront trash facilities along New York harbor had adversely affected the quality of water along the New Jersey shore and occasionally littered the beaches.",
+        "id": "809d92ac-e1a9-47eb-b848-550cb2441865"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          121.33807373046875,
+          823.4635009765625,
+          2339.857177734375,
+          1091.65478515625
+        ],
+        "confidence": 0.975795328617096,
+        "content": "One of the worst instances occurred in August 1987, when more than 200 tons of garbage formed a 50-milelong slick off the New Jersey shore. New Jersey had the right to clean beaches and could have asked the court to grant an injunction requiring New York City to stop using its trash facilities.",
+        "id": "14b17278-d242-41dd-8bbc-400872eb0314"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          121.86900329589844,
+          86.9510726928711,
+          2318.051025390625,
+          342.314453125
+        ],
+        "confidence": 0.9327052235603333,
+        "content": "EXAMPLE 18.5 THE COASE THEOREM AT WORK",
+        "id": "33295466-f25f-4376-9e3b-c148a6412ff0"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          121.2811508178711,
+          1143.60986328125,
+          2358.307861328125,
+          1412.169921875
+        ],
+        "confidence": 0.6836515069007874,
+        "content": "But there was room for mutually beneficial exchange. After two weeks of negotiations, New York and New Jersey reached a settlement. New Jersey would not sue and New York City would use devices to contain spills, monitor trash facilities and shut down those failing to comply.",
+        "id": "d97b0aee-79b3-4bb7-bb44-fe4d36c53425"
+      }
+    ]
+  },
+  {
+    "page_number": 38,
+    "elements": [
+      {
+        "type": "plain text",
+        "bbox": [
+          120.95690155029297,
+          743.9312744140625,
+          2359.523193359375,
+          1077.1402587890625
+        ],
+        "confidence": 0.973510205745697,
+        "content": "A lake is a common property resource, and no fisherman has the incentive to take into account how his fishing affects the opportunities of others. As a result, the fisherman’s private cost understates the true cost to society because more fishing reduces the stock of fish, making less available for others. This leads to an inefficiency—too many fish are caught.",
+        "id": "1116e6b1-28be-4078-9df1-b5ca53a1f558"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          122.46519470214844,
+          1129.7266845703125,
+          2362.16455078125,
+          1331.2144775390625
+        ],
+        "confidence": 0.9703792929649353,
+        "content": "In many fishing areas in the United States, the government determines the annual total allowable catch and then allocates that catch to fishermen through individual fishing quotas determined through an auction or other allocative process.",
+        "id": "3f9aca85-76e0-4253-9258-154b053358c8"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          124.55866241455078,
+          557.509033203125,
+          2346.0693359375,
+          688.854248046875
+        ],
+        "confidence": 0.9475111365318298,
+        "content": "Occasionally externalities arise when resources can be used without payment. As a result, they are likely to be overutilized.",
+        "id": "1e22d2d0-21c1-40c1-a6a9-bcd3a5264fbf"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          128.62533569335938,
+          218.1649627685547,
+          2241.171142578125,
+          340.00146484375
+        ],
+        "confidence": 0.9313207268714905,
+        "content": "18.5 Common Property Resources (1 of 2)",
+        "id": "2fc3916c-95c9-4cfa-8258-33114f2d4e93"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          762.4688110351562,
+          439.8607482910156,
+          1933.053466796875,
+          505.58880615234375
+        ],
+        "confidence": 0.4905646741390228,
+        "content": "rce Resource to which anyone has free access.",
+        "id": "5c9f42b2-3776-48bf-a50f-441f93180f0e"
+      }
+    ]
+  },
+  {
+    "page_number": 39,
+    "elements": [
+      {
+        "type": "plain text",
+        "bbox": [
+          121.75068664550781,
+          1063.3419189453125,
+          1213.9884033203125,
+          1332.061767578125
+        ],
+        "confidence": 0.9724299907684326,
+        "content": "This usage exceeds the efficient level F* at which the marginal social cost of using the resource is equal to the marginal benefit (as given by the demand curve).",
+        "id": "f047ade0-1464-4b79-bdbb-88748da97902"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          121.24907684326172,
+          679.7017211914062,
+          1222.1683349609375,
+          1010.07568359375
+        ],
+        "confidence": 0.970439612865448,
+        "content": "When a common property resource, such as a fishery, is accessible to all, the resource is used up to the point Fc at which the private cost is equal to the additional revenue generated.",
+        "id": "817636b8-10d6-459a-ace0-b954ec9b91b2"
+      },
+      {
+        "type": "figure",
+        "bbox": [
+          1363.7611083984375,
+          441.5491943359375,
+          2376.4287109375,
+          1223.78466796875
+        ],
+        "confidence": 0.9237534403800964,
+        "content": "{\n  \"type\": \"chart\",\n  \"chart_kind\": \"line\",\n  \"title\": null,\n  \"axes\": {\n    \"horizontal\": \"Fish per month\",\n    \"vertical\": \"Benefits, Costs (dollars per fish)\"\n  },\n  \"series\": [\n    {\n      \"label\": \"Marginal Social Cost\",\n      \"color\": \"purple\",\n      \"style\": \"solid\"\n    },\n    {\n      \"label\": \"Private Cost\",\n      \"color\": \"red\",\n      \"style\": \"solid\"\n    },\n    {\n      \"label\": \"Demand\",\n      \"color\": \"blue\",\n      \"style\": \"solid\"\n    }\n  ],\n  \"legend_items\": [\n    \"Marginal Social Cost\",\n    \"Private Cost\",\n    \"Demand\"\n  ],\n  \"data_labels\": [\n    \"F*\",\n    \"Fc\"\n  ],\n  \"annotations\": []\n}",
+        "id": "cf26c624-14d1-4081-aecc-7144dfe62674"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          127.21211242675781,
+          228.3981475830078,
+          1990.9185791015625,
+          339.4164123535156
+        ],
+        "confidence": 0.8947059512138367,
+        "content": "18.5 Common Property Resources (2 of 2)",
+        "id": "3d84e250-4225-446f-a1ae-c1bfaf0e2846"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          123.48979949951172,
+          553.978759765625,
+          1081.89501953125,
+          624.94482421875
+        ],
+        "confidence": 0.85707688331604,
+        "content": "COMMON PROPERTY RESOURCES",
+        "id": "b311a6fc-a577-4439-80a4-c96801d12ff4"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          122.56257629394531,
+          437.69927978515625,
+          496.50250244140625,
+          505.6852111816406
+        ],
+        "confidence": 0.4720977246761322,
+        "content": "FIGURE 18.13",
+        "id": "6b581b0f-a9f5-4c1e-b903-14f2d2bb3aab"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          122.56257629394531,
+          437.69927978515625,
+          496.50250244140625,
+          505.6852111816406
+        ],
+        "confidence": 0.42791444063186646,
+        "content": "FIGURE 18.13",
+        "id": "3b4cc435-7541-43ae-857c-0984fdcfe83d"
+      }
+    ]
+  },
+  {
+    "page_number": 40,
+    "elements": [
+      {
+        "type": "figure",
+        "bbox": [
+          1940.8321533203125,
+          434.8283996582031,
+          2372.424072265625,
+          1009.30859375
+        ],
+        "confidence": 0.9682220220565796,
+        "content": "{\n  \"type\": \"photo\",\n  \"objects\": [\"person\", \"fishing net\", \"crawfish\", \"lake\", \"boat\", \"trees\", \"basket\", \"cap\", \"jacket\"],\n  \"setting\": \"A person on a boat on a lake holding a net with crawfish.\",\n  \"visible_actions\": [\"holding\", \"sitting\", \"pouring\"],\n  \"colors\": [\"brown\", \"green\", \"blue\", \"gray\", \"red\"],\n  \"text_in_image\": []\n}",
+        "id": "745eb246-a27b-4729-bae4-d01adfb9b479"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          121.36235809326172,
+          438.078369140625,
+          1827.2431640625,
+          589.6897583007812
+        ],
+        "confidence": 0.9668120741844177,
+        "content": "Because most crawfish grow in ponds to which fishermen have unlimited access, a common property resource problem has arisen: Too many crawfish have been trapped, causing the crawfish population to fall far below the efficient level.",
+        "id": "0654df00-3942-42dd-b606-e9c47e4a6ab6"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          121.71238708496094,
+          1292.0687255859375,
+          913.6398315429688,
+          1442.4339599609375
+        ],
+        "confidence": 0.948711097240448,
+        "content": "Demand C = 0.401 – 0.0064F Marginal social cost C = –5.645 + 0.6509F Private cost: C = –0.357 + 0.0573F",
+        "id": "8ee8e965-03a1-45c4-bbfb-7dcb8bbcfd04"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          1121.9197998046875,
+          1445.71875,
+          2356.376220703125,
+          1547.910888671875
+        ],
+        "confidence": 0.9431197643280029,
+        "content": "However, the actual level of fishing occurs at the point at which the price for crawfish is equal to the private cost of fishing.",
+        "id": "6bf66f05-2876-49b0-b33a-79b84d65186a"
+      },
+      {
+        "type": "figure",
+        "bbox": [
+          140.2190399169922,
+          629.6555786132812,
+          866.3729858398438,
+          1236.37451171875
+        ],
+        "confidence": 0.9420859217643738,
+        "content": "{\n  \"type\": \"chart\",\n  \"chart_kind\": \"line\",\n  \"title\": null,\n  \"axes\": {\n    \"horizontal\": \"Crawfish catch (millions of pounds)\",\n    \"vertical\": \"Cost (dollars per pound)\"\n  },\n  \"series\": [\n    {\n      \"label\": \"Marginal Social Cost\",\n      \"color\": \"purple\",\n      \"style\": \"solid\"\n    },\n    {\n      \"label\": \"Private Cost\",\n      \"color\": \"red\",\n      \"style\": \"solid\"\n    },\n    {\n      \"label\": \"Demand\",\n      \"color\": \"blue\",\n      \"style\": \"solid\"\n    }\n  ],\n  \"legend_items\": [\n    \"Marginal Social Cost\",\n    \"Private Cost\",\n    \"Demand\"\n  ],\n  \"data_labels\": [\n    \"C\",\n    \"F\",\n    \"2.10\",\n    \"0.325\",\n    \"9.2\",\n    \"11.9\"\n  ],\n  \"annotations\": []\n}",
+        "id": "c71ed90b-5cd7-40bc-af52-a49ef94ca0e3"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          122.42436981201172,
+          1489.468994140625,
+          873.7091674804688,
+          1639.41943359375
+        ],
+        "confidence": 0.9412762522697449,
+        "content": "The efficient crawfish catch is 9.2 million pounds. The actual catch is 11.9 million pounds",
+        "id": "763792f2-97b7-4adc-91e5-d46dbccc5fe3"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          121.002197265625,
+          87.41252136230469,
+          2315.158447265625,
+          342.9471130371094
+        ],
+        "confidence": 0.9350190162658691,
+        "content": "EXAMPLE 18.7 CRAWFISH FISHING IN LOUISIANA",
+        "id": "f84c9ce6-5a3f-4515-9755-fb31f269e61d"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          1121.9691162109375,
+          1311.54248046875,
+          2291.14111328125,
+          1411.7032470703125
+        ],
+        "confidence": 0.9199726581573486,
+        "content": "The efficient level of fishing occurs when the marginal benefit is equal to the marginal social cost.",
+        "id": "b9033693-2596-4ee7-959c-3140115ce9eb"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          1120.89208984375,
+          1581.015869140625,
+          2215.566162109375,
+          1681.4130859375
+        ],
+        "confidence": 0.9174501299858093,
+        "content": "The shaded area represents the social cost of the common property resource.",
+        "id": "974dde6d-8b03-44be-b554-937a2de97d91"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          1123.7183837890625,
+          1088.704833984375,
+          2154.790771484375,
+          1141.12255859375
+        ],
+        "confidence": 0.8703134059906006,
+        "content": "CRAWFISH AS A COMMON PROPERTY RESOURCE",
+        "id": "8c042433-369d-4f4d-8fd1-5ed51effb027"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          1121.4896240234375,
+          1176.28564453125,
+          2254.91748046875,
+          1276.9010009765625
+        ],
+        "confidence": 0.8418735265731812,
+        "content": "Because crawfish are bred in ponds to which fishermen have unlimited access, they are a common property resource.",
+        "id": "c4d7d847-9464-4401-b928-c10db603ddd5"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          1122.2427978515625,
+          1006.2626953125,
+          1405.904052734375,
+          1055.0841064453125
+        ],
+        "confidence": 0.5045251846313477,
+        "content": "FIGURE 18.14",
+        "id": "09ca5a62-136e-4220-8dc1-4d0672f24671"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          1122.2427978515625,
+          1006.2626953125,
+          1405.904052734375,
+          1055.0841064453125
+        ],
+        "confidence": 0.4250446557998657,
+        "content": "FIGURE 18.14",
+        "id": "ba2d7ca5-cee0-422c-8d33-a396fa65e761"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          1192.1895751953125,
+          1762.704345703125,
+          2362.868896484375,
+          1817.52392578125
+        ],
+        "confidence": 0.4227513372898102,
+        "content": "2012, 2009 Pearson Education, Inc. All Rights Reserved",
+        "id": "76c07a5e-22e0-4761-948a-b949b93256d0"
+      }
+    ]
+  },
+  {
+    "page_number": 41,
+    "elements": [
+      {
+        "type": "plain text",
+        "bbox": [
+          122.69854736328125,
+          1234.5025634765625,
+          2309.433837890625,
+          1435.34814453125
+        ],
+        "confidence": 0.9701953530311584,
+        "content": "Some goods are exclusive but nonrival. Others are nonexclusive but rival. Many publicly provided goods are either rival in consumption, exclusive, or both. High school education and national parks are examples of these types of goods.",
+        "id": "2d368336-7726-4a82-89ed-f29d8fce9c79"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          123.65758514404297,
+          1048.8128662109375,
+          2288.7451171875,
+          1179.8468017578125
+        ],
+        "confidence": 0.96155846118927,
+        "content": "nonexclusive good Good that people cannot be excluded from consuming, so that it is difficult or impossible to charge for its use.",
+        "id": "540936d6-279f-405a-b61c-1f5e4a7c4bbd"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          121.69674682617188,
+          438.5196533203125,
+          2166.835693359375,
+          572.3490600585938
+        ],
+        "confidence": 0.9554715156555176,
+        "content": "public good Nonexclusive and nonrival good: The marginal cost of provision to an additional consumer is zero and people cannot be excluded from consuming it.",
+        "id": "347e4a0e-1692-435e-858d-a451626f64d0"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          128.30809020996094,
+          216.85292053222656,
+          1425.126953125,
+          333.2643737792969
+        ],
+        "confidence": 0.9474834203720093,
+        "content": "18.6 Public Goods (1 of 3)",
+        "id": "ae96995b-4613-4c84-9eb1-6cda6266172a"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          122.90045928955078,
+          742.8452758789062,
+          2349.40576171875,
+          874.69580078125
+        ],
+        "confidence": 0.9359101057052612,
+        "content": "nonrival good Good for which the marginal cost of its provision to an additional consumer is zero.",
+        "id": "9d19e80e-4523-46aa-a1e0-f405edea2cf9"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          122.86082458496094,
+          924.9451904296875,
+          793.83837890625,
+          994.7177734375
+        ],
+        "confidence": 0.8548232316970825,
+        "content": "NONEXCLUSIVE GOODS",
+        "id": "bfec135c-c508-4eee-bd41-2e44ce818498"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          123.02892303466797,
+          620.9049072265625,
+          645.3167114257812,
+          690.6718139648438
+        ],
+        "confidence": 0.7044528722763062,
+        "content": "NONRIVAL GOODS",
+        "id": "bbcca32c-a7c0-4c45-9afb-24bab7b24f00"
+      }
+    ]
+  },
+  {
+    "page_number": 42,
+    "elements": [
+      {
+        "type": "plain text",
+        "bbox": [
+          120.40827941894531,
+          747.2536010742188,
+          1250.7825927734375,
+          1085.5872802734375
+        ],
+        "confidence": 0.9658033847808838,
+        "content": "When a good is nonrival, the social marginal benefit of consumption, given by the demand curve D, is determined by vertically summing the individual demand curves for the good, D1 and D2.",
+        "id": "6319e9b4-5098-432f-acc4-300908f96dc1"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          120.5343017578125,
+          1134.4234619140625,
+          1171.3524169921875,
+          1268.384033203125
+        ],
+        "confidence": 0.9582895636558533,
+        "content": "At the efficient level of output, the demand and the marginal cost curves intersect.",
+        "id": "b8a6bb9e-c264-4c8e-b9e3-13333625c9a3"
+      },
+      {
+        "type": "figure",
+        "bbox": [
+          1377.02783203125,
+          555.1926879882812,
+          2373.77783203125,
+          1457.5997314453125
+        ],
+        "confidence": 0.9286033511161804,
+        "content": "{\n  \"type\": \"chart\",\n  \"chart_kind\": \"line\",\n  \"title\": null,\n  \"axes\": {\n    \"horizontal\": \"Output\",\n    \"vertical\": \"Benefits (dollars)\"\n  },\n  \"series\": [\n    {\n      \"label\": \"Marginal Cost\",\n      \"color\": \"red\",\n      \"style\": \"solid\"\n    },\n    {\n      \"label\": \"D\",\n      \"color\": \"blue\",\n      \"style\": \"solid\"\n    },\n    {\n      \"label\": \"D1\",\n      \"color\": \"light blue\",\n      \"style\": \"solid\"\n    },\n    {\n      \"label\": \"D2\",\n      \"color\": \"light blue\",\n      \"style\": \"solid\"\n    }\n  ],\n  \"legend_items\": [],\n  \"data_labels\": [\n    \"D\",\n    \"D1\",\n    \"D2\",\n    \"Marginal Cost\"\n  ],\n  \"annotations\": []\n}",
+        "id": "43d12f11-6f1b-4d6d-9fc3-abef8ec1efab"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          125.47821044921875,
+          228.3399200439453,
+          1267.93505859375,
+          331.3270568847656
+        ],
+        "confidence": 0.9191965460777283,
+        "content": "18.6 Public Goods (2 of 3)",
+        "id": "6aba0837-05bd-49ac-b76a-12e6ace676b6"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          123.46260833740234,
+          624.958740234375,
+          1152.3450927734375,
+          695.7942504882812
+        ],
+        "confidence": 0.874669075012207,
+        "content": "EFFICIENT PUBLIC GOOD PROVISION",
+        "id": "b6a8b370-0bd0-4655-ab02-ec3293df548b"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          124.23999786376953,
+          370.3948059082031,
+          881.8175659179688,
+          436.2907409667969
+        ],
+        "confidence": 0.8312831521034241,
+        "content": "Efficiency and Public Goods",
+        "id": "b8df73bf-fcf0-45f8-acbf-bd0011e33785"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          123.4888687133789,
+          508.5267028808594,
+          497.3325500488281,
+          574.5729370117188
+        ],
+        "confidence": 0.6556463241577148,
+        "content": "FIGURE 18.15",
+        "id": "92ca4d6c-da83-4ffc-a650-b017676b9b45"
+      }
+    ]
+  },
+  {
+    "page_number": 43,
+    "elements": [
+      {
+        "type": "plain text",
+        "bbox": [
+          121.5444564819336,
+          484.3539733886719,
+          2359.414794921875,
+          885.1515502929688
+        ],
+        "confidence": 0.9735209345817566,
+        "content": "Suppose you want to offer a mosquito abatement program for your community. The program is worth more to the community than the $50,000 it will cost. Can you make a profit by providing the program privately? You would break even if you assessed a $5.00 fee to each of the 10,000 households in your community. But you cannot force them to pay the fee, let alone devise a system in which those households that value mosquito abatement most highly pay the highest fees.",
+        "id": "ec043d38-9b12-4c48-b550-8476d978d83e"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          121.98358917236328,
+          1306.547607421875,
+          2358.85986328125,
+          1509.3231201171875
+        ],
+        "confidence": 0.9669206142425537,
+        "content": "With public goods, the presence of free riders makes it difficult or impossible for markets to provide goods efficiently. The public good must therefore be subsidized or provided by governments if it is to be produced efficiently.",
+        "id": "64dbb701-02b7-4a15-be0b-e30b6c2a9f8f"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          124.59040069580078,
+          937.072509765625,
+          2195.3291015625,
+          1069.6231689453125
+        ],
+        "confidence": 0.954441487789154,
+        "content": "Unfortunately, mosquito abatement is nonexclusive. As a result, households have no incentive to pay what the program really is worth to them.",
+        "id": "ca93838a-8b6e-4f02-9fff-b07ae1fd5f83"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          124.07854461669922,
+          1121.7056884765625,
+          2150.728271484375,
+          1252.0740966796875
+        ],
+        "confidence": 0.9489548206329346,
+        "content": "free rider Consumer or producer who does not pay for a nonexclusive good in the expectation that others will.",
+        "id": "21e73fca-16f5-478a-85e9-ccc98a1b2b42"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          125.43529510498047,
+          228.6106414794922,
+          1268.149658203125,
+          330.2467041015625
+        ],
+        "confidence": 0.8888572454452515,
+        "content": "18.6 Public Goods (3 of 3)",
+        "id": "e14b2b04-9dae-48a8-9308-f49e00116fa8"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          125.84262084960938,
+          369.4746398925781,
+          999.3123779296875,
+          435.7491149902344
+        ],
+        "confidence": 0.8842390775680542,
+        "content": "Public Goods and Market Failure",
+        "id": "871dc699-190d-422d-9028-88fa56a7d05b"
+      }
+    ]
+  },
+  {
+    "page_number": 44,
+    "elements": [
+      {
+        "type": "plain text",
+        "bbox": [
+          120.82726287841797,
+          437.776611328125,
+          1463.19189453125,
+          791.6026000976562
+        ],
+        "confidence": 0.9778063893318176,
+        "content": "Clean air is nonexclusive: It is difficult to stop any one person from enjoying it. Clean air is also nonrival: My enjoyment does not inhibit yours. We can infer people’s willingness to pay for clean air from the housing market—households will pay more for a home located in an area with good air quality than for an otherwise identical home in an area with poor air quality.",
+        "id": "0e562193-01f7-42f7-b31e-07ca4594cac2"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          121.66738891601562,
+          1447.7691650390625,
+          1508.2523193359375,
+          1682.020751953125
+        ],
+        "confidence": 0.9668766260147095,
+        "content": "In general, higher-income households have greater demands for clean air than lower-income households. Moreover, each household is less willing to pay for clean air as the level of air quality increases.",
+        "id": "37271310-ec16-4dae-b209-295a72c6a3c1"
+      },
+      {
+        "type": "figure",
+        "bbox": [
+          1701.3314208984375,
+          435.6051940917969,
+          2373.575927734375,
+          898.5119018554688
+        ],
+        "confidence": 0.960694432258606,
+        "content": "{\n  \"type\": \"photo\",\n  \"objects\": [\"buildings\", \"monument\", \"trees\"],\n  \"setting\": \"urban area with brick buildings and a tall stone monument\",\n  \"visible_actions\": [],\n  \"colors\": [\"blue\", \"red\", \"green\", \"gray\"],\n  \"text_in_image\": []\n}",
+        "id": "8708befa-0958-4628-840f-67ad9071bd65"
+      },
+      {
+        "type": "plain text",
+        "bbox": [
+          123.4160385131836,
+          1161.0328369140625,
+          1490.359619140625,
+          1395.61474609375
+        ],
+        "confidence": 0.9561219811439514,
+        "content": "The three curves describe the willingness to pay for clean air (a reduction in the level of nitrogen oxides) for each of three different households (low income, middle income, and high income).",
+        "id": "19d1d052-f6fa-41f6-abf4-6dfb288cb986"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          121.14674377441406,
+          87.93365478515625,
+          2075.967529296875,
+          343.4891662597656
+        ],
+        "confidence": 0.9294610619544983,
+        "content": "EXAMPLE 18.7 THE DEMAND FOR CLEAN AIR",
+        "id": "78011afd-cb25-489e-a17e-c099c68cc66a"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          124.11743927001953,
+          1048.7110595703125,
+          846.9788818359375,
+          1109.118896484375
+        ],
+        "confidence": 0.9281286597251892,
+        "content": "THE DEMAND FOR CLEAN AIR",
+        "id": "c796eaea-a0cb-4293-ab40-2ae5de72085a"
+      },
+      {
+        "type": "figure",
+        "bbox": [
+          1541.83544921875,
+          996.536865234375,
+          2371.650146484375,
+          1675.9625244140625
+        ],
+        "confidence": 0.9228517413139343,
+        "content": "{\n  \"type\": \"chart\",\n  \"chart_kind\": \"line\",\n  \"title\": null,\n  \"axes\": {\n    \"horizontal\": \"Nitrogen oxide (pphm)\",\n    \"vertical\": \"Willingness to pay\"\n  },\n  \"series\": [\n    {\n      \"label\": \"High Income\",\n      \"color\": \"blue\",\n      \"style\": \"solid\"\n    },\n    {\n      \"label\": \"Middle Income\",\n      \"color\": \"teal\",\n      \"style\": \"solid\"\n    },\n    {\n      \"label\": \"Low Income\",\n      \"color\": \"purple\",\n      \"style\": \"solid\"\n    }\n  ],\n  \"legend_items\": [\n    \"High Income\",\n    \"Middle Income\",\n    \"Low Income\"\n  ],\n  \"data_labels\": [],\n  \"annotations\": []\n}",
+        "id": "924276af-781e-41e1-a9ea-24b819ca5de5"
+      },
+      {
+        "type": "title",
+        "bbox": [
+          123.25305938720703,
+          939.34033203125,
+          450.93499755859375,
+          997.7838745117188
+        ],
+        "confidence": 0.8556928038597107,
+        "content": "FIGURE 18.16",
+        "id": "1fa83591-f0ae-4a56-89be-191e5c41ccd5"
+      }
+    ]
+  },
+  {
+    "page_number": 45,
+    "elements": [
+      {
+        "type": "title",
+        "bbox": [
+          123.75875091552734,
+          221.68692016601562,
+          653.9075317382812,
+          346.22119140625
+        ],
+        "confidence": 0.7277196645736694,
+        "content": "Copyright",
+        "id": "0766b01f-a635-4de9-9a9c-89629448b05c"
+      },
+      {
+        "type": "figure",
+        "bbox": [
+          243.9656982421875,
+          650.101318359375,
+          2235.49560546875,
+          1239.4168701171875
+        ],
+        "confidence": 0.45835286378860474,
+        "content": "{\n  \"type\": \"text_image\",\n  \"text\": \"This work is protected by United States copyright laws and is provided solely for the use of instructors in teaching their courses and assessing student learning. Dissemination or sale of any part of this work (including on the World Wide Web) will destroy the integrity of the work and is not permitted. The work and materials from it should never be made available to students except by instructors using the accompanying text in their classes. All recipients of this work are expected to abide by these restrictions and to honor the intended pedagogical purposes and the needs of other instructors who rely on these materials.\",\n  \"headers\": [],\n  \"inline_equations\": []\n}",
+        "id": "7c018537-dd3b-47cb-b6a2-7139786ff596"
+      }
+    ]
+  }
+]

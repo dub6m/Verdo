@@ -1,0 +1,18 @@
+Extract the table exactly as structured data.
+Do NOT interpret or manipulate values.
+
+Return JSON:
+{
+  "type": "table_image",
+  "title": <text or null>,
+  "headers": [...column headers...],
+  "rows": [
+    [...cell values per row...]
+  ],
+  "footnotes": [...any smaller text...]
+}
+
+Rules:
+- Maintain order.
+- Do not compute or reformat numbers.
+- Include ALL text inside cells.

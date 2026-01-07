@@ -1,0 +1,87 @@
+Decompose the "Text" into clear and simple propositions, ensuring they are fully interpretable out of context.
+
+GENERAL REQUIREMENTS
+- Each proposition must be a single, atomic fact or claim.
+- Each proposition must be understandable on its own, without needing to read any other sentence.
+- Use the surrounding Context to resolve references, but do NOT assume the reader sees that Context.
+
+RULES
+
+1. Split Compound Sentences
+   - Break complex or compound sentences into simple, single-idea sentences.
+   - Maintain the original phrasing and wording from the input whenever possible.
+   - Do NOT add commentary, interpretation, or new claims that are not clearly implied by the Text.
+
+2. Separate Named Entity Descriptions
+   - If a named entity (e.g., “Georg Franck von Franckenau”) includes descriptive information
+     (e.g., “professor of medicine”), put that description into its own proposition.
+   - Example:
+     - "Georg Franck von Franckenau was a professor of medicine."
+
+3. Decontextualize Every Proposition
+   - Every proposition must stand alone.
+   - Replace pronouns like “it”, “he”, “she”, “they”, “this”, “that”, “these”, “those”, “here”, “there” with the full noun phrase they refer to (e.g. “the firm”, “the emissions fee”, “the recycling policy”).
+   - If you CANNOT confidently determine the referent from the given Text and Context, then:
+       - EITHER rewrite the sentence to remove the pronoun while preserving the meaning,
+       - OR omit that proposition entirely.
+   - Do NOT leave any proposition that starts with or depends on “this”, “that”, “these changes”, “this solution”, etc. without an explicit noun.
+
+4. Preserve Mathematical and Numerical Content Exactly
+   - When the Text contains equations, tables, numbers, parameters, or symbols, copy them exactly.
+   - Do NOT change numbers, variables, signs, or functional forms.
+   - You may restate what a formula means in words, but the literal mathematical expression must remain unchanged.
+
+5. Avoid Redundant Propositions Inside the Same Batch
+   - If the same fact is stated multiple times in slightly different words in the Text, output only ONE clear proposition for that fact.
+   - Do NOT output paraphrased duplicates of the same information within a single response.
+
+6. Exclude Purely Layout/Visual or Trivial Meta Statements
+   - Do NOT create propositions that only describe:
+       - the existence of a chart, figure, or photo (e.g. “A chart exists that is of the ‘other’ kind.”),
+       - axis labels or colors (e.g. “The chart has vertical axes labeled '$'.”, “The colors in the photo are gray and brown.”),
+       - generic references like “Example 18.4 presents data on X.” unless the example itself encodes a substantive fact.
+   - Only keep visual-related propositions if they express a substantive economic or conceptual fact
+     (e.g. “The chart shows that permit prices peaked in 2005 at nearly $1600.”).
+
+OUTPUT FORMAT
+- Present the results as a JSON object with a single key "propositions".
+- The value of "propositions" must be a list of strings.
+- Each string is exactly one proposition.
+
+Example:
+
+Text:
+The earliest evidence for the Easter Hare (Osterhase) was recorded in south-west Germany in
+1678 by the professor of medicine Georg Franck von Franckenau, but it remained unknown in
+other parts of Germany until the 18th century. Scholar Richard Sermon writes that "hares were
+frequently seen in gardens in spring, and thus may have served as a convenient explanation for the
+origin of the colored eggs hidden there for children. Alternatively, there is a European tradition
+that hares laid eggs, since a hare’s scratch or form and a lapwing’s nest look very similar, and
+both occur on grassland and are first seen in the spring. In the nineteenth century the influence
+of Easter cards, toys, and books was to make the Easter Hare/Rabbit popular throughout Europe.
+German immigrants then exported the custom to Britain and America where it evolved into the
+Easter Bunny.
+
+Output: {{
+  "propositions": [
+    "The earliest evidence for the Easter Hare was recorded in south-west Germany in 1678 by Georg Franck von Franckenau.",
+    "Georg Franck von Franckenau was a professor of medicine.",
+    "The evidence for the Easter Hare remained unknown in other parts of Germany until the 18th century.",
+    "Richard Sermon was a scholar.",
+    "Richard Sermon writes a hypothesis about the possible explanation for the connection between hares and the tradition during Easter.",
+    "Hares were frequently seen in gardens in spring.",
+    "Hares may have served as a convenient explanation for the origin of the colored eggs hidden in gardens for children.",
+    "There is a European tradition that hares laid eggs.",
+    "A hare’s scratch or form and a lapwing’s nest look very similar.",
+    "Both hares and lapwing’s nests occur on grassland and are first seen in the spring.",
+    "In the nineteenth century the influence of Easter cards, toys, and books was to make the Easter Hare/Rabbit popular throughout Europe.",
+    "German immigrants exported the custom of the Easter Hare/Rabbit to Britain and America.",
+    "The custom of the Easter Hare/Rabbit evolved into the Easter Bunny in Britain and America."
+  ]
+}}
+
+Relevant Context:
+{context}
+
+Decompose the following:
+{batch}

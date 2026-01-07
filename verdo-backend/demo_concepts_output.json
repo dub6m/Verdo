@@ -1,0 +1,154 @@
+{
+  "concepts": {
+    "c_abc12345": {
+      "id": "c_abc12345",
+      "title": "Introduction to Externalities",
+      "summary": "Defines externalities and distinguishes between negative and positive externalities",
+      "elements": [
+        "elem_002",
+        "elem_003",
+        "elem_004"
+      ],
+      "definition": null,
+      "explanation": null,
+      "formulas": [],
+      "figures": [],
+      "examples": [],
+      "prerequisites": [],
+      "parent": null,
+      "elementsData": [
+        {
+          "id": "elem_002",
+          "type": "heading",
+          "content": "What Are Externalities?",
+          "page": 1,
+          "confidence": 0.92,
+          "position_in_page": 2,
+          "global_sequence": 2
+        },
+        {
+          "id": "elem_003",
+          "type": "paragraph",
+          "content": "An externality occurs when a person engages in an activity that influences the well-being of a bystander and yet neither pays nor receives any compensation for that effect.",
+          "page": 1,
+          "confidence": 0.88,
+          "position_in_page": 3,
+          "global_sequence": 3
+        },
+        {
+          "id": "elem_004",
+          "type": "paragraph",
+          "content": "If the impact on the bystander is adverse, it is called a negative externality. If it is beneficial, it is called a positive externality.",
+          "page": 1,
+          "confidence": 0.9,
+          "position_in_page": 4,
+          "global_sequence": 4
+        }
+      ]
+    },
+    "c_def67890": {
+      "id": "c_def67890",
+      "title": "Negative Externalities and Examples",
+      "summary": "Explains negative externalities with pollution as a primary example",
+      "elements": [
+        "elem_005",
+        "elem_006",
+        "elem_007"
+      ],
+      "definition": null,
+      "explanation": null,
+      "formulas": [],
+      "figures": [],
+      "examples": [],
+      "prerequisites": [],
+      "parent": null,
+      "elementsData": [
+        {
+          "id": "elem_005",
+          "type": "heading",
+          "content": "Negative Externalities",
+          "page": 2,
+          "confidence": 0.93,
+          "position_in_page": 1,
+          "global_sequence": 5
+        },
+        {
+          "id": "elem_006",
+          "type": "paragraph",
+          "content": "Pollution is a classic example of a negative externality. When a factory emits smoke, it creates health problems for people nearby, but the factory does not compensate them.",
+          "page": 2,
+          "confidence": 0.87,
+          "position_in_page": 2,
+          "global_sequence": 6
+        },
+        {
+          "id": "elem_007",
+          "type": "example",
+          "content": "EXAMPLE 1.1: A steel mill that pollutes the air reduces the value of nearby homes. The pollution is a negative externality.",
+          "page": 2,
+          "confidence": 0.85,
+          "position_in_page": 3,
+          "global_sequence": 7
+        }
+      ]
+    },
+    "c_ghi24680": {
+      "id": "c_ghi24680",
+      "title": "Marginal Social Cost",
+      "summary": "Introduces the concept of marginal social cost and its formula",
+      "elements": [
+        "elem_008",
+        "elem_009",
+        "elem_010"
+      ],
+      "definition": null,
+      "explanation": null,
+      "formulas": [],
+      "figures": [],
+      "examples": [],
+      "prerequisites": [],
+      "parent": null,
+      "elementsData": [
+        {
+          "id": "elem_008",
+          "type": "heading",
+          "content": "Marginal Social Cost",
+          "page": 3,
+          "confidence": 0.91,
+          "position_in_page": 1,
+          "global_sequence": 8
+        },
+        {
+          "id": "elem_009",
+          "type": "paragraph",
+          "content": "The marginal social cost of an activity is the sum of the marginal private cost plus the marginal external cost. In the presence of a negative externality, the social cost exceeds the private cost.",
+          "page": 3,
+          "confidence": 0.89,
+          "position_in_page": 2,
+          "global_sequence": 9
+        },
+        {
+          "id": "elem_010",
+          "type": "formula",
+          "content": "MSC = MPC + MEC",
+          "page": 3,
+          "confidence": 0.94,
+          "position_in_page": 3,
+          "global_sequence": 10
+        }
+      ]
+    }
+  },
+  "stats": {
+    "totalConcepts": 3,
+    "totalElementsProcessed": 9,
+    "avgElementsPerConcept": 3.0,
+    "minElementsPerConcept": 3,
+    "maxElementsPerConcept": 3
+  },
+  "metadata": {
+    "totalElements": 10,
+    "totalConcepts": 3,
+    "note": "This is a demo showing the output format"
+  }
+}

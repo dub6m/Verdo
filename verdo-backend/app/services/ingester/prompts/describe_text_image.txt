@@ -1,0 +1,15 @@
+Extract all visible text exactly as written.
+Do NOT summarize or interpret.
+
+Return JSON:
+{
+  "type": "text_image",
+  "text": <full OCR output preserving line breaks>,
+  "headers": [...detected section title...],
+  "inline_equations": [...latex or raw...]
+}
+
+Rules:
+- No rephrasing.
+- No interpretation.
+- Keep formatting minimal but accurate.

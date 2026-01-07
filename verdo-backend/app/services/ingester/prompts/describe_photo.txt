@@ -1,0 +1,18 @@
+Extract ONLY what is visually present.
+No interpretation of symbolism, meaning, or causes.
+
+Return JSON like:
+{
+  "type": "photo",
+  "objects": [...e.g., "polar bear", "ice", "mountains"...],
+  "setting": <one-line physical description>,
+  "visible_actions": [...verbs describing only observable actions...],
+  "colors": [...dominant colors...],
+  "text_in_image": [...all text if present...]
+}
+
+Rules:
+- NO narrative.
+- NO scientific interpretation.
+- NO emotional or symbolic description.
+- Keep descriptions literal and objective.

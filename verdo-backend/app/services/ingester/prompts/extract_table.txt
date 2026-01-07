@@ -1,0 +1,1 @@
+Extract the table from this image and return ONLY JSON with keys rows, columns, and data (2D array). If no table, return {"rows":0,"columns":0,"data":[]}. No prose, no code fences.

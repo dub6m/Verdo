@@ -1,0 +1,28 @@
+Extract all visible chart components without interpreting meaning.
+
+Return JSON with:
+{
+  "type": "chart",
+  "chart_kind": <line/bar/pie/scatter/other>,
+  "title": <text or null>,
+  "axes": {
+    "horizontal": <x-axis label or null>,
+    "vertical": <y-axis label or null>
+  },
+  "series": [
+    {
+      "label": <text or null>,
+      "color": <best guess>,
+      "style": <solid/dotted/etc>
+    }
+  ],
+  "legend_items": [...labels...],
+  "data_labels": [...standalone text inside the plot...],
+  "annotations": [...arrows, callouts, highlighted regions...]
+}
+
+Rules:
+- DO NOT interpret.
+- DO NOT calculate.
+- DO NOT guess values.
+- ONLY extract the structure and visible text.

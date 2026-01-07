@@ -1,0 +1,7 @@
+Concept Title: {title}
+Current Summary: {summary}
+
+Element just added: [{element_id}] Type: {element_type}
+Content: {content}
+
+Generate updated summary (1-2 sentences only):

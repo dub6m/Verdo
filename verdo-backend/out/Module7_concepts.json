@@ -1,0 +1,390 @@
+{
+  "c_001": {
+    "id": "c_001",
+    "title": "The Costs and Benefits of Sulfur Dioxide Emissions",
+    "summary": "Explains the economic trade-offs of sulfur dioxide emissions using a diagram illustrating the relationship between Marginal Environmental Cost (MEC) and Marginal Cost of Abatement (MCA) to determine the efficient emission level, and describes three policy approaches to achieve this level.",
+    "elements": [
+      "Although sulfur dioxide gas can be produced naturally by volcanoes, almost two-thirds of all sulfur dioxide emissions in the United States come from electric power generation that depends on burning fossil fuels such as coal and petroleum. In addition to human health, acid rain causes damage to water and forests as well as to man-made structures.",
+      "The efficient sulfur dioxide concentration equates the marginal abatement cost to the marginal external cost.",
+      "The diagram illustrates the relationship between sulfur dioxide concentration (measured in parts per million, ppm) and the associated economic costs of pollution reduction. It features two key curves: the Marginal External Cost (MEC) and the Marginal Abatement Cost (MAC).\n\n1. **Axes**: \n   - The vertical axis represents \"Dollars per unit of reduction,\" indicating the cost associated with reducing sulfur dioxide.\n   - The horizontal axis shows \"Sulfur dioxide concentration (ppm),\" reflecting the level of pollution.\n\n2. **Marginal External Cost (MEC)**:\n   - The curve starts at a high cost for very low concentrations of sulfur dioxide and then drops sharply before flattening out, showing that the external costs of pollution diminish as concentrations decrease.\n   - This indicates that reducing sulfur dioxide at lower levels incurs high external costs, which gradually decrease as further reductions are made.\n\n3. **Marginal Abatement Cost (MAC)**:\n   - This curve exhibits an upward slope, illustrating that as more sulfur dioxide is abated (reduced), the cost increases.\n   - It highlights that the initial reductions are less costly, but as pollution levels approach lower concentrations, the costs of further reductions increase significantly.\n\n4. **Intersection Point**:\n   - The curves intersect at a specific point, indicating the optimal level of sulfur dioxide concentration where the marginal external cost of pollution equals the marginal abatement cost. \n   - This point serves as a critical indication of where economic efficiency is achieved regarding pollution",
+      "EXAMPLE 18.1 THE COSTS AND BENEFITS OF SULFUR DIOXIDE EMISSIONS",
+      "Here the marginal abatement cost curve is a series of steps, each representing the use of a different abatement technology.",
+      "Here the marginal abatement cost curve is a series of steps, each representing the use of a different abatement technology.",
+      "We can encourage the firm to reduce emissions to E* in three ways: (1) emissions standards; (2) emissions fees; and (3) transferable emissions permits.",
+      "With no effort at abatement, the firm’s profit-maximizing level of emissions is 26, the level at which the marginal cost of abatement is zero.",
+      "The diagram illustrates the relationship between the costs associated with emissions and the level of emissions in an economic context. It features two curves: the Marginal Environmental Cost (MEC) curve (in blue) and the Marginal Cost of Abatement (MCA) curve (in red).\n\n### Key Components:\n1. **Axes**: \n   - The vertical axis represents \"Dollars per unit of emissions.\"\n   - The horizontal axis denotes the \"Level of emissions,\" indicating different quantities of emissions.\n\n2. **Curves**:\n   - **MEC (Marginal Environmental Cost)**: This curve increases as emissions rise, reflecting the greater environmental damage or cost associated with higher levels of emissions.\n   - **MCA (Marginal Cost of Abatement)**: This curve decreases as emissions decrease, indicating that the cost to abate or reduce emissions becomes more efficient at lower levels of emissions.\n\n3. **Equilibrium Points**:\n   - **E₀**: The level of emissions where the MEC is low and does not result in significant cost.\n   - **E***: The point where the MEC equals the MCA, representing the socially optimal level of emissions. This is where the cost of abating further emissions is exactly balanced by the cost of not emitting.\n   - **E₁**: A higher level of emissions where the cost impacts are greater, illustrating higher marginal costs related to emissions.\n\n### Key Insights:\n- The intersection at **E*** suggests an optimal balance,"
+    ],
+    "definition": null,
+    "explanation": null,
+    "formulas": [],
+    "figures": [],
+    "examples": [],
+    "prerequisites": [],
+    "parent": null
+  },
+  "c_002": {
+    "id": "c_002",
+    "title": "Externalities",
+    "summary": "Explains both negative and positive externalities, detailing how positive externalities cause market inefficiency by leading marginal social benefits (MSB) to exceed private benefits (D) by the marginal external benefit (MEB), while also describing negative externalities and the efficient output level (q*) with policy interventions, illustrated with diagrams.",
+    "elements": [
+      "18.1 Externalities",
+      "18.2 Stock Externalities",
+      "18.1 Emissions Trading and Clean Air",
+      "18.2 Ways of Correcting Market Failure",
+      "18.2 Externalities and Property Rights",
+      "18.2 Common Property Resources",
+      "18.2 Public Goods",
+      "When externalities are present, the price of a good need not reflect its social value. As a result, firms may produce too much or too little, so that the market outcome is inefficient.",
+      "externality Action by either a producer or a consumer which affects other producers or consumers, but is not accounted for in the market price.",
+      "Externalities can be negative—when the action of one party imposes costs on another party—or positive—when the action of one party benefits another party.",
+      "18.1 Externalities (1 of 4)",
+      "marginal external cost Increase in cost imposed externally as one or more firms increase output by one unit.",
+      "Negative Externalities and Inefficiency",
+      "The diagram illustrates the relationship between price, firm output, and cost structures in the context of economic efficiency and externalities.\n\n### Key Components:\n1. **Axes**:\n   - The vertical axis represents **Price**.\n   - The horizontal axis represents **Firm Output**.\n\n2. **Curves**:\n   - **MSC (Marginal Social Cost)**: The purple curve reflects the total cost to society of producing an additional unit of output, accounting for both private and external costs.\n   - **MC (Marginal Cost)**: The red curve indicates the cost incurred by a firm to produce one more unit of output, focusing solely on internal costs.\n   - **MEC (Marginal External Cost)**: This is also represented in red, but it typically slopes upwards and signifies the additional cost imposed on society (externalities) for each unit produced.\n\n3. **Horizontal Line**:\n   - The blue line at price level **P₁** indicates the market price.\n\n4. **Quantities**:\n   - **q***: The socially optimal output level where MSC intersects the horizontal price line P₁.\n   - **q₁**: The output level where MC intersects the price line P₁; this represents the firm's profit-maximizing output.\n\n### Illustrative Points:\n- The diagram shows a divergence between the firm’s output (q₁) and the socially optimal output (q*), highlighting a welfare loss due to externalities. \n- If",
+      "When there are negative externalities, the marginal social cost MSC is higher than the marginal cost MC.",
+      "18.1 Externalities (2 of 4)",
+      "The difference is the marginal external cost MEC.",
+      "The efficient output is q*, at which price equals MSC.",
+      "FIGURE 18.1 (1 of 2) EXTERNAL COST",
+      "In (b), the industry’s competitive output is Q1, at the intersection of industry supply MC and demand D. However, the efficient output Q* is lower, at the intersection of demand and marginal social cost MSC. The aggregate social cost is as the shaded triangle between MSCI, D, and output Q1.",
+      "18.1 Externalities (3 of 4)",
+      "The diagram consists of two parts, labeled (a) and (b), illustrating economic concepts related to externalities and market equilibrium.\n\n### Part (a): Firm Output\n- **Axes**: The vertical axis measures \"Price\" and the horizontal axis measures \"Firm output.\"\n- **Curves**:\n  - **MC (Marginal Cost)**: A red curve indicating the firm's cost to produce one more unit.\n  - **MSC (Marginal Social Cost)**: A higher purple curve representing the total cost to society of producing one more unit, including externalities.\n  - **MEC (Marginal External Cost)**: A lower red curve, which represents the additional cost to society due to the negative effects of production on third parties (e.g., pollution).\n- **Equilibrium Points**:\n  - The point where MC intersects the price line at \\( P_1 \\) indicates the firm's profit-maximizing output level, \\( q^* \\).\n  - A higher output level \\( q_1 \\) is illustrated, where the MSC is greater than the MC, implying an inefficiency in production that impacts societal welfare.\n\n### Part (b): Industry Output\n- **Axes**: The vertical axis also measures \"Price,\" while the horizontal axis measures \"Industry output.\"\n- **Curves**:\n  - **S (Supply)**: This is shown as equal to MC, reflecting the firms’ supply in the market.\n  - **D (Demand)**: A",
+      "marginal social benefit Sum of the marginal private benefit plus the marginal external benefit.",
+      "18.1 Externalities (4 of 4)",
+      "marginal external benefit Increased benefit that accrues to other parties as a firm increases output by one unit.",
+      "When there are positive externalities, marginal social benefits MSB are higher than marginal benefits D. The difference is the marginal external benefit MEB. A self-interested homeowner invests q1 in repairs, determined by the intersection of the marginal benefit curve D and the marginal cost curve MC.",
+      "Positive Externalities and Inefficiency"
+    ],
+    "definition": null,
+    "explanation": null,
+    "formulas": [],
+    "figures": [],
+    "examples": [],
+    "prerequisites": [],
+    "parent": null
+  },
+  "c_003": {
+    "id": "c_003",
+    "title": "Regulating Municipal Solid Wastes",
+    "summary": "Explains the economic and environmental considerations in regulating municipal solid wastes.",
+    "elements": [
+      "18.1 Regulating Municipal Solid Wastes"
+    ],
+    "definition": null,
+    "explanation": null,
+    "formulas": [],
+    "figures": [],
+    "examples": [],
+    "prerequisites": [],
+    "parent": null
+  },
+  "c_004": {
+    "id": "c_004",
+    "title": "Externalities and Public Goods",
+    "summary": "Explains externalities—the effects of production and consumption activities not directly reflected in the market—and public goods, which benefit all consumers but are often undersupplied or unsupplied by the market due to free-rider problems or high provision costs. The concept now also covers the distinction between positive and negative externalities.",
+    "elements": [
+      "Externalities and Public Goods (1 of 2)",
+      "The marginal cost of providing a public good to an additional consumer is zero, and people cannot be prevented from consuming it. We distinguish between those goods that are difficult to provide privately and those that could have been provided by the market.",
+      "In this chapter we study externalities—the effects of production and consumption activities not directly reflected in the market—and public goods—goods that benefit all consumers but that the market either undersupplies or does not supply at all.",
+      "Externalities and Public Goods (2 of 2)"
+    ],
+    "definition": null,
+    "explanation": null,
+    "formulas": [],
+    "figures": [],
+    "examples": [],
+    "prerequisites": [],
+    "parent": null
+  },
+  "c_005": {
+    "id": "c_005",
+    "title": "Marginal Social Cost",
+    "summary": "Explains the concept of marginal social cost and its relationship to market efficiency.",
+    "elements": [
+      "marginal social cost Sum of the marginal cost of production and the marginal external cost."
+    ],
+    "definition": null,
+    "explanation": null,
+    "formulas": [],
+    "figures": [],
+    "examples": [],
+    "prerequisites": [],
+    "parent": null
+  },
+  "c_007": {
+    "id": "c_007",
+    "title": "External Benefits",
+    "summary": "Explains the concept of external benefits, how they differ from external costs, and their impact on market efficiency, including how the efficient level of output is determined by the intersection of marginal social benefit and marginal cost curves.",
+    "elements": [
+      "FIGURE 18.2 EXTERNAL BENEFITS",
+      "The efficient level of repair q* is higher and is given by the intersection of the marginal social benefit and marginal cost curves."
+    ],
+    "definition": null,
+    "explanation": null,
+    "formulas": [],
+    "figures": [],
+    "examples": [],
+    "prerequisites": [],
+    "parent": null
+  },
+  "c_1": {
+    "id": "c_1",
+    "title": "Emissions Standards",
+    "summary": "Explains how emissions standards function as legal limits on pollutants firms can emit, details their economic implications, and introduces the emissions fee, a charge levied on each unit of a firm’s emissions.",
+    "elements": [
+      "The standard ensures that the firm produces efficiently. The firm meets the standard by installing pollution-abatement equipment. Firms will find it profitable to enter the industry only if the price of the product is greater than the average cost of production plus abatement—the efficient condition for the industry.",
+      "emissions standard Legal limit on the amount of pollutants that a firm can emit.",
+      "emissions fee Charge levied on each unit of a firm’s emissions."
+    ],
+    "definition": null,
+    "explanation": null,
+    "formulas": [],
+    "figures": [],
+    "examples": [],
+    "prerequisites": [],
+    "parent": null
+  },
+  "c_2": {
+    "id": "c_2",
+    "title": "Emissions Standards in Detail",
+    "summary": "Explains how emissions standards function, their economic impact, and uses a figure to illustrate the interaction between marginal cost curves and regulatory frameworks to achieve efficient emissions levels using either an emissions fee or an emissions standard.",
+    "elements": [
+      "An Emissions Standard",
+      "The efficient level of emissions at E* can be achieved through either an emissions fee or an emissions standard.",
+      "The diagram represents a two-part analysis of emissions levels and their associated economic costs, showcasing the interaction between marginal cost curves and regulatory frameworks.\n\n### Key Elements:\n\n1. **Axes:**\n   - **Vertical Axis (Dollars per unit of emissions):** This measures the cost associated with each unit of emissions, likely reflecting fees or costs imposed by regulations.\n   - **Horizontal Axis (Level of emissions):** This indicates the total emissions level, spanning from a lower threshold to a higher one.\n\n2. **Curves:**\n   - **MEC (Marginal Emission Cost) Curve (Purple):** This upward-sloping curve represents the increasing costs associated with higher emissions levels. It suggests that as emissions rise, the societal or economic costs become increasingly significant.\n   - **MCA (Marginal Cost of Abatement) Curve (Red):** This downward-sloping curve represents the decreasing cost of reducing emissions as more units are reduced. It indicates that starting from a higher level of emissions, abatement costs are lower due to economies of scale.\n\n3. **Equilibrium Point (E*):** \n   - Located at the intersection of the MEC and MCA curves (around 12 units of emissions), this point represents the efficient level of emissions where the cost of abatement equals the marginal cost of emissions. It signifies the optimal balance for societal welfare.\n\n4. **Standards and Fees:**\n   - **Standard:** A regulatory threshold depicted by the vertical line at 12 emissions"
+    ],
+    "definition": null,
+    "explanation": null,
+    "formulas": [],
+    "figures": [],
+    "examples": [],
+    "prerequisites": [],
+    "parent": null
+  },
+  "c_3": {
+    "id": "c_3",
+    "title": "Emissions Fees",
+    "summary": "Explains how emissions fees work, their economic implications, and how firms determine the cost-effective level of emissions reduction where the fee equals the marginal cost of abatement, also comparing this approach to a standard that limits emissions to 12 units for the same reduction level.",
+    "elements": [
+      "An Emissions Fee",
+      "Facing a fee of $3 per unit of emissions, a firm reduces emissions to the point at which the fee is equal to the marginal cost of abatement.",
+      "The same level of emissions reduction can be achieved with a standard that limits emissions to 12 units."
+    ],
+    "definition": null,
+    "explanation": null,
+    "formulas": [],
+    "figures": [],
+    "examples": [],
+    "prerequisites": [],
+    "parent": null
+  },
+  "c_4": {
+    "id": "c_4",
+    "title": "Standards and Fees",
+    "summary": "Compares emissions standards and fees as policy tools for addressing market failures, explaining how fees create differential abatement responses based on firms' cost curves (visualized in FIGURE 18.5) and now includes a diagram illustrating the relationship between emissions and costs, focusing on marginal social and marginal abatement costs.",
+    "elements": [
+      "STANDARDS AND FEES",
+      "FIGURE 18.5",
+      "With the fee, the firm with a lower abatement cost curve (Firm 2) reduces emissions more than the firm with a higher cost curve (Firm 1).",
+      "The diagram illustrates the relationship between the marginal cost of abatement (MCA) for two firms and the associated emissions levels, along with the price of emissions fees. \n\n### Key Components:\n\n1. **Axes**:\n   - The vertical axis represents the cost in dollars per unit of emissions, ranging from 0 to 6.\n   - The horizontal axis indicates the level of emissions, ranging from 1 to 14 units.\n\n2. **MCA Curves**:\n   - **MCA₁ (Firm 1)**: This curve is depicted in red and shows the increasing marginal costs for Firm 1 as it reduces emissions. As emissions decrease, the cost per unit of reduction rises.\n   - **MCA₂ (Firm 2)**: This curve is in a lighter red, indicating Firm 2's marginal costs for abating emissions. Its costs are lower at similar emissions levels compared to Firm 1.\n\n3. **Fee Line**:\n   - A horizontal black line represents the fee imposed on emissions, set at approximately $3 per unit. This fee acts as an incentive for firms to reduce emissions.\n\n4. **Abatement Costs**:\n   - At the intersection of the fee and the MCA curves, the diagram indicates the levels of emissions at which each firm chooses to abate (reduce) their emissions based on costs.\n   - The shaded area between the curves illustrates the difference in abatement costs for both firms, with arrows indicating how changes in the emissions",
+      "With limited information, a policymaker may be faced with the choice of either a single emissions fee or a single emissions standard for all firms.",
+      "The fee of $3 achieves a total emissions level of 14 units more cheaply than a 7-unit-per- firm emissions standard.",
+      "The same percentage error in setting a fee would result in excess costs of ABC.",
+      "Here a 12.5 percent error in setting the standard leads to extra social costs of triangle ADE.",
+      "The diagram illustrates the relationship between emissions and costs in an economic context, focusing on marginal social costs and marginal costs of abatement.\n\n1. **Axes**: \n   - The vertical axis represents costs in dollars per unit of emissions.\n   - The horizontal axis represents the level of emissions.\n\n2. **Curves**:\n   - **Marginal Social Cost (MSC)**: This curve is upward sloping and indicates that as emissions increase, the social costs associated with those emissions also rise. It is labeled and intersects the level of emissions at point C.\n   - **Marginal Cost of Abatement (MCA)**: This curve slopes downward, suggesting that as abatement (reducing emissions) increases, the cost per unit of abatement decreases. It is marked and intersects at point B.\n\n3. **Key Points**:\n   - **Point A**: Represents a low level of emissions where the costs are minimal.\n   - **Point B**: The intersection of the MSC and MCA indicates the socially optimal level of emissions, balancing the cost of abatement with the costs of emissions.\n   - **Point D**: This point lies between the two curves, showing an inefficient level of emissions.\n   - **Point E**: Indicates another point of interest, possibly reflecting a different emission level.\n\n4. **Shaded Area**: The yellow shaded area between the MSC and MCA curves indicates the net social benefit lost when emissions exceed the socially optimal level.\n\n5. **Dashed"
+    ],
+    "definition": null,
+    "explanation": null,
+    "formulas": [],
+    "figures": [],
+    "examples": [],
+    "prerequisites": [],
+    "parent": null
+  },
+  "c_5": {
+    "id": "c_5",
+    "title": "The Case for Fees",
+    "summary": "Explains arguments for using emissions fees as a pollution control tool, noting they can be preferable when government lacks precise cost/benefit data, especially compared to standards when the marginal external cost curve is steep and marginal abatement cost curve is flat.",
+    "elements": [
+      "THE CASE FOR FEES",
+      "When the government has limited information about the costs and benefits of pollution abatement, either a standard or a fee may be preferable. The standard is preferable when the marginal external cost curve is steep and the marginal abatement cost curve is relatively flat."
+    ],
+    "definition": null,
+    "explanation": null,
+    "formulas": [],
+    "figures": [],
+    "examples": [],
+    "prerequisites": [],
+    "parent": null
+  },
+  "c_6": {
+    "id": "c_6",
+    "title": "18.2 Ways of Correcting Market Failure",
+    "summary": "Discusses various methods to correct market failures, likely including emissions standards and fees, and may introduce new concepts or perspectives on addressing environmental externalities.",
+    "elements": [
+      "18.2 Ways of Correcting Market Failure (5 of 6)"
+    ],
+    "definition": null,
+    "explanation": null,
+    "formulas": [],
+    "figures": [],
+    "examples": [],
+    "prerequisites": [],
+    "parent": null
+  },
+  "c_7": {
+    "id": "c_7",
+    "title": "THE CASE FOR STANDARDS",
+    "summary": "Explains that emissions standards can be complemented by a tradable emissions permits system, outlining how marketable permits allocate specific maximum emission levels among firms, impose penalties for excess emissions, set a total supply to achieve the desired maximum, leading to cost-effective compliance, and is illustrated in FIGURE 18.8, which also shows the annual share of total U.S. electricity generation from various sources between 1970 and 2016.",
+    "elements": [
+      "THE CASE FOR STANDARDS",
+      "If there are enough firms and permits, a competitive market will develop. In equilibrium, the price of a permit equals the marginal cost of abatement for all firms; otherwise, a firm will find it advantageous to buy more permits. The level of emissions chosen by the government will be achieved at minimum cost. Those firms with relatively low marginal cost of abatement curves will be reducing emissions the most, and those with relatively high marginal cost of abatement will be buying more permits and reducing emissions the least.",
+      "Each permit specifies the number of units of emissions that the firm is allowed to put out. Excess emissions are subject to substantial monetary sanctions. The total number of permits is chosen to achieve the desired maximum level of emissions. Permits are marketable: They can be bought and sold.",
+      "tradable emissions permits System of marketable permits, allocated among firms, specifying the maximum level of emissions that can be generated.",
+      "THE CASE FOR STANDARDS",
+      "FIGURE 18.8",
+      "The diagram illustrates the annual share of total U.S. electricity generation from various sources between 1970 and 2016. It features five distinct categories represented by different colored lines:\n\n1. **Coal (Dark Blue)**: Dominated the chart until around 2007, peaking at over 50% in the mid-1980s before gradually declining to around 30% by 2016.\n\n2. **Petroleum (Red)**: Showed a sharp decline from about 15% in the 1970s to nearly negligible levels by 2016.\n\n3. **Natural Gas (Light Blue)**: Started at a low share but increased significantly from the 1990s onward, reaching approximately 30% by 2016.\n\n4. **Nuclear (Purple)**: Maintained a relatively stable share, averaging around 20%, with minor fluctuations over the years.\n\n5. **Hydro (Teal)**: Varied slightly but generally contributed around 6-10% to the electricity generation mix.\n\n6. **Nonhydro Renewables (Light Brown)**: Displayed a gradual rise, starting from a minimal contribution in 2000 to nearly 10% by 2016, indicating increasing adoption of renewable energy sources.\n\nThe y-axis represents the percentage of total electricity generation, while the x-axis marks the years from 1970 to 2016. This diagram effectively highlights the significant shifts in energy sources, especially the decline of coal and increase in",
+      "THE CASE FOR STANDARDS"
+    ],
+    "definition": null,
+    "explanation": null,
+    "formulas": [],
+    "figures": [],
+    "examples": [],
+    "prerequisites": [],
+    "parent": null
+  },
+  "c_9": {
+    "id": "c_9",
+    "title": "Tradable Emissions Permits",
+    "summary": "Explains tradable emissions permits, how they function, their role in pollution control, contrasts them with bubble and offset programs (including the requirement for new sources to offset emissions by reducing existing ones, with over 2,000 offset transactions since 1976), and notes that EPA bubble/offset programs in the 1980s-90s achieved $300 million per year in abatement cost savings.",
+    "elements": [
+      "Tradable Emissions Permits",
+      "Bubble and offset programs substantially understate the potential gain from a broad-based emissions trading program. The 1990 Clean Air Act focused on transferable permits as a way of dealing with “acid rain.” In 2005 the program was modified through the Clean Air Interstate Rule to put a “cap” on emissions in 25 states while continuing to allow emissions “trades”—hence the term “cap and trade” program.",
+      "In the early 1990s, economists expected these permits to trade for around $300, but reducing sulfur dioxide emissions was less costly than anticipated. From 2005 to 2006, the price of permits rose sharply, hitting a high of nearly $1600 in December 2005, but starting in 2007, the market price of emission permits began to decline, in part because the EPA lost a lawsuit brought by a group of utilities.",
+      "Under the offset program, new sources of emissions may be found, but only if they offset their new emissions by reducing emissions from existing sources by at least as much. A total of more than 2000 offset transactions have occurred since 1976.",
+      "In the 1980s and 1990s, the Environmental Protection Agency’s “bubble” and “offset” programs were modest attempts to use a trading system to lower the cleanup costs of emissions. Abatement cost savings associated with the EPA’s program of 42 bubbles have been approximately $300 million per year since 1979."
+    ],
+    "definition": null,
+    "explanation": null,
+    "formulas": [],
+    "figures": [],
+    "examples": [],
+    "prerequisites": [],
+    "parent": null
+  },
+  "c_10": {
+    "id": "c_10",
+    "title": "Emissions Trading and Clean Air",
+    "summary": "Continues the case study on emissions trading programs, focusing on the impact and outcomes of the sulfur dioxide permit market, illustrated by FIGURE 18.9. This concept teaches how market-based mechanisms can achieve environmental goals cost-effectively, potentially expanding to cover cap-and-trade systems for other pollutants.",
+    "elements": [
+      "EXAMPLE 18.2 EMISSIONS TRADING AND CLEAN AIR",
+      "The price of tradeable permits for sulfur dioxide emissions fluctuated between $100 and $200 from 1993 to 2003, but then increased sharply in 2005 and 2006 in response to an increased demand for permits. The price fluctuated between $400 and $500 per ton for the next few years, before the stock market crashed in 2008. By 2012, the price of permits was close to zero, and the permit market had effectively collapsed.",
+      "The diagram is a line graph illustrating the price per ton (in dollars) of a specific commodity over a span of years from 1993 to 2015. \n\n### Key Features:\n\n1. **X-Axis (Year)**: The horizontal axis represents the years, ranging from 1993 to 2015.\n\n2. **Y-Axis (Price in dollars/ton)**: The vertical axis indicates the price of the commodity, measured in dollars per ton, ranging from 0 to approximately 1,600 dollars.\n\n3. **Trend Overview**: \n   - From 1993 to around 2002, prices remained relatively stable, typically fluctuating around the 200 to 400 dollar range.\n   - A significant increase occurred starting in 2003, culminating in a sharp peak in 2005, where prices soared to just over 1,600 dollars per ton.\n   - Following this peak, prices declined sharply until around 2009, showing a moderate stabilization around 200 to 400 dollars per ton by 2015.\n\n4. **Notable Patterns**:\n   - The rapid increase in price during the early to mid-2000s might indicate market volatility or increased demand.\n   - The peak in 2005 suggests a notable event or series of events that dramatically impacted pricing.\n   - After the peak, the price drop indicates a correction or a return to more stable market conditions.\n\n### Conclusion:\nThis graph effectively illustrates the fluctuations in the price",
+      "EXAMPLE 18.3 EMISSIONS TRADING AND CLEAN AIR (2 of 2)",
+      "FIGURE 18.9"
+    ],
+    "definition": null,
+    "explanation": null,
+    "formulas": [],
+    "figures": [],
+    "examples": [],
+    "prerequisites": [],
+    "parent": null
+  },
+  "c_12": {
+    "id": "c_12",
+    "title": "FUEL MIX FOR U.S. ELECTRICITY GENERATION",
+    "summary": "Explains the historical and current fuel mix for U.S. electricity generation, highlighting the shift away from coal.",
+    "elements": [
+      "FUEL MIX FOR U.S. ELECTRICITY GENERATION"
+    ],
+    "definition": null,
+    "explanation": null,
+    "formulas": [],
+    "figures": [],
+    "examples": [],
+    "prerequisites": [],
+    "parent": null
+  },
+  "c_13": {
+    "id": "c_13",
+    "title": "Private and Social Costs of Waste Disposal",
+    "summary": "Explains the divergence between private and social costs in waste disposal, highlighting how low private costs often lead to over-disposal and negative externalities, resulting in society bearing the burden of excessive waste management.",
+    "elements": [
+      "The low cost of disposal creates a divergence between the private and social cost. The marginal private cost, which is the cost to the household of throwing out the glass, is likely to be constant (independent of the amount of disposal) for low to moderate levels of disposal. It will then increase for large disposal levels involving additional shipping and dump charges. In contrast, the social cost of disposal includes the harm to the environment from littering, and injuries. Marginal social cost is likely to increase, in part because the marginal private cost is increasing and in part because the environmental and aesthetic costs of littering are likely to increase sharply as the level of disposal increases.",
+      "The disposal of waste products involves little or no private cost. This means that society will dispose of too much waste material."
+    ],
+    "definition": null,
+    "explanation": null,
+    "formulas": [],
+    "figures": [],
+    "examples": [],
+    "prerequisites": [],
+    "parent": null
+  },
+  "c_14": {
+    "id": "c_14",
+    "title": "Market Failures in Resource Use",
+    "summary": "Explains how overutilization of virgin materials and underutilization of recycled materials lead to market failures.",
+    "elements": [
+      "The overutilization of virgin materials and the underutilization of recycled materials will result in a market failure."
+    ],
+    "definition": null,
+    "explanation": null,
+    "formulas": [],
+    "figures": [],
+    "examples": [],
+    "prerequisites": [],
+    "parent": null
+  },
+  "c_15": {
+    "id": "c_15",
+    "title": "Recycling as a Market Solution",
+    "summary": "Explains the economic implications of recycling, including market failures, how managing scrap costs can be analyzed, defines the efficient recycling level as equating marginal social cost (MSC) to marginal recycling cost (MCR), and highlights that private markets produce more scrap than the socially efficient amount.",
+    "elements": [
+      "Recycling",
+      "The diagram presents an economic analysis related to cost management in relation to scrap. \n\n### Axes:\n- **Vertical Axis**: Represents the cost (in dollars).\n- **Horizontal Axis**: Represents the quantity of scrap.\n\n### Curves:\n1. **MC (Marginal Cost)**: This is depicted as a downward-sloping line, indicating that the marginal cost decreases as the scrap quantity increases.\n  \n2. **MCR (Marginal Cost of Recycling)**: This curve shows the cost associated with recycling at different quantities and is relatively flat, suggesting that the recycling costs do not significantly increase as the quantity of scrap increases.\n\n3. **MSC (Marginal Social Cost)**: This is an upward-sloping curve indicating that the marginal social costs rise with increased scrap quantity. This captures the broader costs to society that may not be reflected in private costs.\n\n4. **MC + per-unit refund**: Represented as a dashed line, this adjusts marginal cost to include a per-unit refund, illustrating that as the quantity of scrap increases, the effective marginal cost decreases due to the refund.\n\n### Key Points:\n- **Intersection Points**: There are marked quantities on the horizontal axis (m*, m1), indicating crucial points of equilibrium or efficiency in cost management.\n- **m***: Represents an optimal quantity where marginal costs equal marginal social costs, suggesting efficient resource allocation.\n- **m1**: Indicates another significant quantity, likely where marginal costs begin to increase more steeply.\n\nOverall",
+      "The efficient amount of recycling of scrap material is the amount that equates the marginal social cost of scrap disposal, MSC, to the marginal cost of recycling, MCR.",
+      "The efficient amount of scrap for disposal m* is less than the amount that will arise in a private market, m1."
+    ],
+    "definition": null,
+    "explanation": null,
+    "formulas": [],
+    "figures": [],
+    "examples": [],
+    "prerequisites": [],
+    "parent": null
+  },
+  "c_008": {
+    "id": "c_008",
+    "title": "Ways of Correcting Market Failure",
+    "summary": "Explains various policy tools used to correct market failures caused by externalities, including emissions standards, emissions fees, and transferable emissions permits.",
+    "elements": [
+      "18.2 Ways of Correcting Market Failure (1 of 6)"
+    ],
+    "definition": null,
+    "explanation": null,
+    "formulas": [],
+    "figures": [],
+    "examples": [],
+    "prerequisites": [],
+    "parent": null
+  },
+  "c_009": {
+    "id": "c_009",
+    "title": "The Efficient Level of Emissions",
+    "summary": "Determines the efficient level of emissions by equating the marginal external cost of emissions (MEC) to the marginal cost of abatement (MCA), with the efficient level of factory emissions shown as 12 units (E*). This concept also considers how abatement cost structures influence the optimal emission level.",
+    "elements": [
+      "THE EFFICIENT LEVEL OF EMISSIONS",
+      "The efficient level of factory emissions is the level that equates the marginal external cost of emissions MEC to the benefit associated with lower abatement costs MCA. The efficient level of 12 units is E*."
+    ],
+    "definition": null,
+    "explanation": null,
+    "formulas": [],
+    "figures": [],
+    "examples": [],
+    "prerequisites": [],
+    "parent": null
+  }
+}

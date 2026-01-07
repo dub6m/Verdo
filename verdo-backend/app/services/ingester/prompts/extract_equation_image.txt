@@ -1,0 +1,1 @@
+Extract ONLY the LaTeX for the equation in this image. Return JSON: {"latex": "..."} No prose, no fences.

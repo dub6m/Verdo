@@ -1,0 +1,28 @@
+{concept_outline}
+
+{context_section}
+
+NEW ELEMENTS TO PROCESS (in order):
+{elements_list}
+
+For each element, decide: skip, create_new, or add_to_existing.
+
+Respond with valid JSON only:
+{{
+  "decisions": [
+	{{
+	  "element_id": "elem_XXX",
+	  "decision": "create_new" | "add_to_existing" | "skip",
+	  "concept_id": "c_XXX",
+	  "title": "Concept Title",
+	  "summary": "Brief description",
+	  "reasoning": "Why this decision"
+	}}
+  ]
+}}
+
+IMPORTANT:
+- If decision is "create_new", you MUST provide: concept_id, title, summary
+- If decision is "add_to_existing", you MUST provide: concept_id (of existing concept)
+- If decision is "skip", only provide: element_id, decision, reasoning
+- Process elements sequentially - later elements can join concepts created earlier in this batch

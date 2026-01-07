@@ -1,0 +1,23 @@
+Extract the exact flowchart structure.
+
+Return JSON:
+{
+  "type": "flowchart",
+  "nodes": [
+    {
+      "id": <generated id>,
+      "text": <node text>,
+      "shape": <rectangle/diamond/oval/etc>
+    }
+  ],
+  "edges": [
+    {"from": <node_id>, "to": <node_id>, "label": <edge text or null>}
+  ],
+  "start_nodes": [...],
+  "end_nodes": [...]
+}
+
+Rules:
+- Do not infer logic.
+- Do not explain meaning.
+- Only capture structure.

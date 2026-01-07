@@ -1,0 +1,17 @@
+Extract the exact formula as LaTeX if possible.
+If unclear, return a faithful character-level transcription.
+
+Return JSON:
+{
+  "type": "formula",
+  "latex": <latex string or null>,
+  "raw_text": <raw OCR text>,
+  "variables": [...variable names visible...],
+  "operators": [...operators detected...]
+}
+
+Rules:
+- DO NOT explain the formula.
+- DO NOT solve it.
+- DO NOT infer missing components.
+- ONLY extract what is visually present.

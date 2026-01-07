@@ -1,0 +1,11 @@
+.env
+**/venv/
+**/venvs/
+**/node_modules/
+**/.next/
+**/__pycache__/*.pyc
+*.log
+*debug*.txt
+*output*.txt
+.cache
+*.cache
