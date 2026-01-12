@@ -162,6 +162,75 @@ class HDBSCANplus:
         norms = np.linalg.norm(x, axis=1, keepdims=True) + 1e-12
         return x / norms
 
+    # ----------------------- logging -----------------------
+
+    def _fmt(self, value, digits=4):
+        try:
+            return f"{float(value):.{int(digits)}f}"
+        except Exception:
+            return "n/a"
+
+    def _formatTrialLine(self, trial):
+        params = trial.get("params", {})
+        stats = trial.get("stats", {})
+        return (
+            f"score={self._fmt(trial.get('score'))} "
+            f"dbcv={self._fmt(trial.get('dbcvRaw'))} "
+            f"bic={self._fmt(trial.get('bicScore'))} "
+            f"mcs={params.get('minClusterSize', 'n/a')} "
+            f"eps={self._fmt(params.get('clusterSelectionEpsilon'))} "
+            f"clusters={stats.get('clusterCount', 'n/a')} "
+            f"noise={self._fmt(stats.get('noiseRate'))}"
+        )
+
+    def _logRunStats(self, x):
+        if not self.debug:
+            return
+        if x is None:
+            print("HDBSCANplus run stats: empty embeddings")
+            return
+        n = int(getattr(x, "shape", [0])[0]) if getattr(x, "ndim", 0) >= 1 else 0
+        d = int(x.shape[1]) if getattr(x, "ndim", 0) == 2 else 0
+        print(f"HDBSCANplus run stats: n={n} d={d} metric={self.metricForRun}")
+        if n == 0:
+            return
+        if n < 5:
+            params = self._defaultParamsForSmallN(n)
+            print(
+                "HDBSCANplus small-n defaults: "
+                f"minClusterSize={params.get('minClusterSize')} "
+                f"clusterSelectionEpsilon={self._fmt(params.get('clusterSelectionEpsilon'), 3)}"
+            )
+            return
+        (mcs_min, mcs_max), (eps_min, eps_max) = self._effectiveRanges(n)
+        print(
+            "HDBSCANplus ranges: "
+            f"minClusterSize={mcs_min}-{mcs_max} "
+            f"clusterSelectionEpsilon={self._fmt(eps_min, 3)}-{self._fmt(eps_max, 3)}"
+        )
+
+    def _logTrial(self, trial):
+        if not self.debug:
+            return
+        print(f"HDBSCANplus trial: {self._formatTrialLine(trial)}")
+
+    def _logBestTrial(self, trial):
+        if not self.debug or not trial:
+            return
+        print(f"HDBSCANplus best trial: {self._formatTrialLine(trial)}")
+
+    def _logTopTrials(self, trials, top_k=5):
+        if not self.debug:
+            return
+        if not trials:
+            print("HDBSCANplus top trials: none")
+            return
+        limit = max(1, int(top_k))
+        ranked = sorted(trials, key=self._rankSortKey)[:limit]
+        print(f"HDBSCANplus top {len(ranked)} trials:")
+        for idx, trial in enumerate(ranked, start=1):
+            print(f"  {idx}. {self._formatTrialLine(trial)}")
+
     # ----------------------- search -----------------------
 
     def searchBestParams(self, x):
